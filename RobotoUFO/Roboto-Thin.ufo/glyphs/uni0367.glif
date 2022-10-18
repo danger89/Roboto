@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0367" format="1">
+  <advance width="0"/>
+  <unicode hex="0367"/>
+  <outline>
+    <contour>
+      <point x="-563" y="1170" type="move" name="_marktop"/>
+    </contour>
+    <contour>
+      <point x="-563" y="1818" type="move" name="_mkmktop"/>
+    </contour>
+    <contour>
+      <point x="-403" y="1202" type="line"/>
+      <point x="-363" y="1202" type="line"/>
+      <point x="-363" y="1754" type="line"/>
+      <point x="-403" y="1754" type="line"/>
+      <point x="-403" y="1376.3474960327148" type="line"/>
+      <point x="-415.60784435789196" y="1295.059808020864"/>
+      <point x="-461.10205599999995" y="1231.0"/>
+      <point x="-582.0" y="1231.0" type="curve" smooth="yes"/>
+      <point x="-671" y="1231"/>
+      <point x="-723" y="1271"/>
+      <point x="-723" y="1438" type="curve" smooth="yes"/>
+      <point x="-723" y="1754" type="line"/>
+      <point x="-763" y="1754" type="line"/>
+      <point x="-763" y="1439" type="line" smooth="yes"/>
+      <point x="-763" y="1253"/>
+      <point x="-700" y="1191"/>
+      <point x="-581" y="1191" type="curve" smooth="yes"/>
+      <point x="-495.850208" y="1191.0"/>
+      <point x="-437.688898023776" y="1222.695775400016"/>
+      <point x="-403" y="1274.6800918579102" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.967</real>
+        <real>0.6</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

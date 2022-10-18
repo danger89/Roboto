@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dblapostrophe" format="1">
+  <advance width="779"/>
+  <unicode hex="02EE"/>
+  <outline>
+    <contour>
+      <point x="376" y="1560" type="line"/>
+      <point x="162" y="1560" type="line"/>
+      <point x="162" y="1371" type="line" smooth="yes"/>
+      <point x="162" y="1245"/>
+      <point x="133" y="1149"/>
+      <point x="87" y="1059" type="curve"/>
+      <point x="211" y="982" type="line"/>
+      <point x="308" y="1076"/>
+      <point x="376" y="1239"/>
+      <point x="376" y="1372" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="692" y="1560" type="line"/>
+      <point x="477" y="1560" type="line"/>
+      <point x="477" y="1371" type="line" smooth="yes"/>
+      <point x="477" y="1245"/>
+      <point x="449" y="1149"/>
+      <point x="403" y="1059" type="curve"/>
+      <point x="527" y="982" type="line"/>
+      <point x="624" y="1076"/>
+      <point x="692" y="1239"/>
+      <point x="692" y="1372" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.967</real>
+        <real>0.6</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni024C" format="1">
+  <advance width="1282.34"/>
+  <unicode hex="024C"/>
+  <outline>
+    <contour>
+      <point x="764.65484557988009" y="1601" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="490.72858252534536" y="10" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="1455.2948455798801" y="1601" type="move" name="top0315"/>
+    </contour>
+    <contour>
+      <point x="950.93595894839359" y="0.0" type="line"/>
+      <point x="1152.1030565725896" y="0.0" type="line"/>
+      <point x="1152.6417945836697" y="13.258731445789479" type="line"/>
+      <point x="926.59061934385068" y="628.34860678556629" type="line"/>
+      <point x="1107.4162035342138" y="694.06532069219998"/>
+      <point x="1243.7307349134792" y="827.76450157224156"/>
+      <point x="1261.558695566953" y="1026.7273570345533" type="curve" smooth="yes"/>
+      <point x="1286.8703334750312" y="1309.2092321355071"/>
+      <point x="1095.8239189791432" y="1449.3070556048701"/>
+      <point x="830.15418317415117" y="1455.0599386251217" type="curve" smooth="yes"/>
+      <point x="374.12839429307206" y="1456.0175227120853" type="line"/>
+      <point x="250.99743121286036" y="747.08749191833635" type="line"/>
+      <point x="62.159209073431484" y="746.91949199570638" type="line"/>
+      <point x="34.520802753847747" y="590.08919503727554" type="line"/>
+      <point x="223.98964137918733" y="589.92513711865365" type="line"/>
+      <point x="121.39125013296815" y="0.0" type="line"/>
+      <point x="308.96979141258959" y="0.0" type="line"/>
+      <point x="411.65046024381013" y="589.92212473817449" type="line"/>
+      <point x="746.84981770466823" y="590.0206127865938" type="line"/>
+    </contour>
+    <contour>
+      <point x="534.3067985242543" y="1298.0424793511402" type="line"/>
+      <point x="825.96479118358627" y="1297.085291789404" type="line" smooth="yes"/>
+      <point x="994.53211299302416" y="1292.010016073167"/>
+      <point x="1094.4557912419032" y="1201.233961242895"/>
+      <point x="1072.8344121820526" y="1027.4898351036002" type="curve" smooth="yes"/>
+      <point x="1049.8210439817722" y="842.56002390092976"/>
+      <point x="889.71814742858032" y="746.45782843480856"/>
+      <point x="714.23467697481556" y="745.5063700863202" type="curve" smooth="yes"/>
+      <point x="438.49433642458143" y="747.11794796023628" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.798</real>
+        <real>1.0</real>
+        <real>0.6</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

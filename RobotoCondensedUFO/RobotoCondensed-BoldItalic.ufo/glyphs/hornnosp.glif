@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hornnosp" format="1">
+  <advance width="0.0"/>
+  <unicode hex="031B"/>
+  <outline>
+    <contour>
+      <point x="113.00969316600013" y="1589.8650354978902" type="line"/>
+      <point x="-123.68724834507262" y="1589.8177415298289" type="line"/>
+      <point x="-145.49113491636234" y="1403.2134874690523"/>
+      <point x="-192.60767334925129" y="1250.7455262292588"/>
+      <point x="-268.25490272091753" y="1081.2215334421596" type="curve"/>
+      <point x="-135.96587881754533" y="1001.1686067765971" type="line"/>
+      <point x="-10.240764966548156" y="1115.8286052762567"/>
+      <point x="61.881121471472085" y="1272.0696777199007"/>
+      <point x="87.942620175297904" y="1438.8181040064583" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.967</real>
+        <real>0.6</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

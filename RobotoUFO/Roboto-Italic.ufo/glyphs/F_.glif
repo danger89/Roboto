@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="F" format="1">
+  <advance width="1098.04"/>
+  <unicode hex="0046"/>
+  <outline>
+    <contour>
+      <point x="277.56831729519632" y="337" type="move" name="cross"/>
+    </contour>
+    <contour>
+      <point x="775.28544827856012" y="1612" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="413.12858252534534" y="10" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="1270.8220635163639" y="1600" type="move" name="top_dd"/>
+    </contour>
+    <contour>
+      <point x="924.04846203902162" y="-407" type="move" name="bottom_dd"/>
+    </contour>
+    <contour>
+      <point x="1272.89544827856" y="1612" type="move" name="top0315"/>
+    </contour>
+    <contour>
+      <point x="59.31792617344486" y="0.0" type="line"/>
+      <point x="247.86144757711736" y="0.0" type="line"/>
+      <point x="359.72020040967385" y="642.92630208687365" type="line"/>
+      <point x="950.90870814514847" y="643.07209998056373" type="line"/>
+      <point x="978.95165362097146" y="800.9181852613159" type="line"/>
+      <point x="386.71027082372444" y="801.05817464201243" type="line"/>
+      <point x="473.21202320212899" y="1297.9237850761249" type="line"/>
+      <point x="1160.420562042671" y="1298.0762837734235" type="line"/>
+      <point x="1188.4641160729668" y="1455.9115640862235" type="line"/>
+      <point x="312.02476196124013" y="1455.9372659126755" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.6</real>
+        <real>0.609</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ncommaaccent" format="1">
+  <advance width="1224.1399999999999"/>
+  <unicode hex="0145"/>
+  <outline>
+    <contour>
+      <point x="783.88206351636381" y="1600" type="move" name="parent_top"/>
+    </contour>
+    <contour>
+      <point x="1377.5220635163637" y="1600" type="move" name="top_dd"/>
+    </contour>
+    <contour>
+      <point x="1030.7484620390217" y="-407" type="move" name="bottom_dd"/>
+    </contour>
+    <contour>
+      <point x="1377.5220635163637" y="1600" type="move" name="top0315"/>
+    </contour>
+    <contour>
+      <point x="783.88206351636381" y="1600" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="414.17510617217806" y="-515" type="move" name="bottom"/>
+    </contour>
+    <component base="N"/>
+    <component base="commaaccent" xOffset="327.39289300707634" yOffset="-362"/>
+  </outline>
+</glyph>

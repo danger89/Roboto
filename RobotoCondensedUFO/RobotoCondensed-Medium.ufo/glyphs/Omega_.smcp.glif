@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Omega.smcp" format="1">
+  <advance width="1091"/>
+  <outline>
+    <contour>
+      <point x="114" y="1164" type="move" name="tonos"/>
+    </contour>
+    <contour>
+      <point x="548" y="10" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="329" y="611" type="curve" smooth="yes"/>
+      <point x="329" y="654" type="line" smooth="yes"/>
+      <point x="329" y="846"/>
+      <point x="393" y="980"/>
+      <point x="544" y="980" type="curve" smooth="yes"/>
+      <point x="698" y="980"/>
+      <point x="762" y="846"/>
+      <point x="762" y="654" type="curve" smooth="yes"/>
+      <point x="762" y="611" type="line"/>
+      <point x="762" y="380"/>
+      <point x="718" y="253"/>
+      <point x="587" y="206" type="curve"/>
+      <point x="587" y="0" type="line"/>
+      <point x="992" y="0" type="line"/>
+      <point x="992" y="202" type="line"/>
+      <point x="837.7387619018555" y="202" type="line"/>
+      <point x="941.793324282474" y="299.78075225649"/>
+      <point x="1003.0" y="451.798205"/>
+      <point x="1003.0000000000001" y="637.0" type="curve" smooth="yes"/>
+      <point x="1003" y="672" type="line" smooth="yes"/>
+      <point x="1003" y="949"/>
+      <point x="835" y="1181"/>
+      <point x="544" y="1181" type="curve" smooth="yes"/>
+      <point x="255" y="1181"/>
+      <point x="88" y="949"/>
+      <point x="88" y="671" type="curve" smooth="yes"/>
+      <point x="88" y="637" type="line" smooth="yes"/>
+      <point x="88.0" y="451.922326"/>
+      <point x="149.45744403248798" y="299.76828273168996"/>
+      <point x="253.7868423461914" y="202" type="curve"/>
+      <point x="105" y="202" type="line"/>
+      <point x="105" y="0" type="line"/>
+      <point x="508" y="0" type="line"/>
+      <point x="508" y="206" type="line"/>
+      <point x="382" y="253"/>
+      <point x="329" y="381"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.939</real>
+        <real>1.0</real>
+        <real>0.6</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

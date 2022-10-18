@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="mu" format="1">
+  <advance width="990.37"/>
+  <unicode hex="00B5"/>
+  <outline>
+    <contour>
+      <point x="394.83991168625744" y="-22.558594143435705" type="curve" smooth="yes"/>
+      <point x="489.33914761911393" y="-23.003040833608754"/>
+      <point x="555.21892828297837" y="29.296461910061709"/>
+      <point x="609.00619181850311" y="102.00819332936462" type="curve"/>
+      <point x="590.72987653442556" y="0.0" type="line"/>
+      <point x="744.89673483487763" y="0.0" type="line"/>
+      <point x="932.50530133145753" y="1081.9366947860192" type="line"/>
+      <point x="759.49274520868471" y="1081.9446165283132" type="line"/>
+      <point x="618.90063599886923" y="264.89398641027805" type="line"/>
+      <point x="570.21256714606272" y="181.54138877823613"/>
+      <point x="501.91603004568901" y="126.46967923867922"/>
+      <point x="400.98828544614548" y="129.76735276271714" type="curve" smooth="yes"/>
+      <point x="248.43648070204796" y="134.75177057116866"/>
+      <point x="285.03276248087519" y="362.26380557083172"/>
+      <point x="295.82154918580318" y="459.01361378153922" type="curve"/>
+      <point x="398.0549485912112" y="1081.9293178424973" type="line"/>
+      <point x="225.98614287843918" y="1081.9494777460404" type="line"/>
+      <point x="-34.109476141599714" y="-415.93312709708601" type="line"/>
+      <point x="137.85011505794097" y="-415.92738627116807" type="line"/>
+      <point x="225.08675516775378" y="48.786014013761751" type="line"/>
+      <point x="269.88253230679055" y="-1.3447621518485917"/>
+      <point x="327.90083171272198" y="-22.243767761573682"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <real>0.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <real>0.0</real>
+          <key>y</key>
+          <real>202.0</real>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <real>0.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <real>0.0</real>
+          <key>y</key>
+          <real>547.0</real>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="eogonek.NAV" format="1">
+  <advance width="944.78"/>
+  <outline>
+    <contour>
+      <point x="576.01222716291704" y="1290" type="move" name="parent_top"/>
+    </contour>
+    <contour>
+      <point x="1082.1503292216191" y="1600" type="move" name="top_dd"/>
+    </contour>
+    <contour>
+      <point x="769.45906847382969" y="-407" type="move" name="bottom_dd"/>
+    </contour>
+    <contour>
+      <point x="1033.8522271629172" y="1290" type="move" name="top0315"/>
+    </contour>
+    <contour>
+      <point x="576.01222716291704" y="1290" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="322.19146123095408" y="-429" type="move" name="bottom"/>
+    </contour>
+    <component base="e"/>
+    <component base="ogonek" xOffset="208.55000000000001"/>
+  </outline>
+</glyph>

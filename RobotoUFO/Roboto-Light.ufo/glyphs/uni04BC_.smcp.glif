@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni04BC.smcp" format="1">
+  <advance width="1427"/>
+  <outline>
+    <contour>
+      <point x="869" y="-10" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="1250" y="91" type="curve"/>
+      <point x="1207" y="183" type="line"/>
+      <point x="1131" y="131"/>
+      <point x="1029" y="89"/>
+      <point x="881" y="89" type="curve" smooth="yes"/>
+      <point x="594" y="89"/>
+      <point x="474" y="279"/>
+      <point x="474" y="505" type="curve" smooth="yes"/>
+      <point x="474" y="556" type="line"/>
+      <point x="1348" y="556" type="line"/>
+      <point x="1348" y="672" type="line" smooth="yes"/>
+      <point x="1348" y="992"/>
+      <point x="1164" y="1181"/>
+      <point x="847" y="1181" type="curve" smooth="yes"/>
+      <point x="572.34184" y="1181.0"/>
+      <point x="362.15161399562805" y="977.974118312276"/>
+      <point x="354.23157501220703" y="657.7801971435547" type="curve"/>
+      <point x="193.8950264102" y="666.9481434615"/>
+      <point x="114.99999999999999" y="757.07804"/>
+      <point x="114.99999999999997" y="900.9999999999999" type="curve"/>
+      <point x="11" y="901" type="line"/>
+      <point x="11.0" y="692.628354"/>
+      <point x="132.71152619700803" y="566.3197824813159"/>
+      <point x="354" y="556.611442565918" type="curve"/>
+      <point x="354" y="505" type="line" smooth="yes"/>
+      <point x="354" y="197"/>
+      <point x="550" y="-18"/>
+      <point x="881" y="-18" type="curve" smooth="yes"/>
+      <point x="1070" y="-18"/>
+      <point x="1187" y="42"/>
+    </contour>
+    <contour>
+      <point x="847.0" y="1078.0" type="curve" smooth="yes"/>
+      <point x="1105" y="1078"/>
+      <point x="1228" y="921"/>
+      <point x="1228" y="695" type="curve" smooth="yes"/>
+      <point x="1228" y="657" type="line"/>
+      <point x="474.24449920654297" y="657" type="line"/>
+      <point x="480.91101680548496" y="902.664592891656"/>
+      <point x="623.4568409999999" y="1078.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.939</real>
+        <real>1.0</real>
+        <real>0.6</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

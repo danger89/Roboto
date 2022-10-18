@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="macroncomb" format="1">
+  <advance width="0.0"/>
+  <unicode hex="0304"/>
+  <outline>
+    <contour>
+      <point x="-442.64985061832351" y="1283" type="move" name="_marktop"/>
+    </contour>
+    <contour>
+      <point x="-391.85192394451258" y="1577" type="move" name="mkmktop"/>
+    </contour>
+    <contour>
+      <point x="-431.19164426668715" y="1383" type="move" name="parent_top"/>
+    </contour>
+    <contour>
+      <point x="-93.826865077603543" y="1444.9080899667911" type="line"/>
+      <point x="-746.99974640862615" y="1444.9161632420148" type="line"/>
+      <point x="-772.31519851154872" y="1303.0917087685818" type="line"/>
+      <point x="-119.14231718052892" y="1303.083635493356" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.798</real>
+        <real>1.0</real>
+        <real>0.6</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

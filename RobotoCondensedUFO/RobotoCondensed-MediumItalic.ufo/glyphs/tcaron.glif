@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tcaron" format="1">
+  <advance width="641.4"/>
+  <unicode hex="0165"/>
+  <outline>
+    <contour>
+      <point x="282.39076189018175" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="446.23708764033472" y="1476" type="move" name="parent_top"/>
+    </contour>
+    <contour>
+      <point x="794.78206351636379" y="1600" type="move" name="top_dd"/>
+    </contour>
+    <contour>
+      <point x="448.00846203902171" y="-407" type="move" name="bottom_dd"/>
+    </contour>
+    <contour>
+      <point x="773.35708764033461" y="1476" type="move" name="top0315"/>
+    </contour>
+    <contour>
+      <point x="446.23708764033472" y="1476" type="move" name="top"/>
+    </contour>
+    <component base="t"/>
+    <component base="commaaccent" xOffset="649.98601717697477" yOffset="1404"/>
+  </outline>
+</glyph>

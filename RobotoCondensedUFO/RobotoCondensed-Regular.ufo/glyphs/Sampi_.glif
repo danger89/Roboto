@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Sampi" format="1">
+  <advance width="1349"/>
+  <unicode hex="03E0"/>
+  <outline>
+    <contour>
+      <point x="1230" y="460" type="curve" smooth="yes"/>
+      <point x="1230" y="580" type="line" smooth="yes"/>
+      <point x="1230" y="1121"/>
+      <point x="1017" y="1476"/>
+      <point x="604" y="1476" type="curve" smooth="yes"/>
+      <point x="240" y="1476"/>
+      <point x="71" y="1187"/>
+      <point x="34" y="878" type="curve"/>
+      <point x="217" y="878" type="line" name="hr00"/>
+      <point x="261" y="1160"/>
+      <point x="387" y="1319"/>
+      <point x="604" y="1319" type="curve" smooth="yes"/>
+      <point x="757.10347" y="1319.0"/>
+      <point x="873.9728445376301" y="1240.95733285028"/>
+      <point x="950.1938095092773" y="1100.1752166748047" type="curve"/>
+      <point x="330" y="658" type="line"/>
+      <point x="401" y="526" type="line"/>
+      <point x="1007.1445999145508" y="958.8265914916992" type="line"/>
+      <point x="1037.7171728099368" y="854.4619778868754"/>
+      <point x="1053.6372772760894" y="729.7553010898396"/>
+      <point x="1053.9938735961914" y="586.7739028930664" type="curve"/>
+      <point x="498" y="204" type="line"/>
+      <point x="568" y="72" type="line"/>
+      <point x="1053.2093048095703" y="406.8095397949219" type="line"/>
+      <point x="1041.053943597175" y="2.6540298365750346"/>
+      <point x="888.95485" y="-260.9999999999999"/>
+      <point x="611.0" y="-260.9999999999998" type="curve"/>
+      <point x="611" y="-437" type="line"/>
+      <point x="998" y="-437"/>
+      <point x="1230" y="-80"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+      </data>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.939</real>
+        <real>1.0</real>
+        <real>0.6</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

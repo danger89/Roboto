@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni20DC" format="1">
+  <advance width="0.0"/>
+  <unicode hex="20DC"/>
+  <outline>
+    <contour>
+      <point x="-370.02422379567264" y="1170" type="move" name="_marktop"/>
+    </contour>
+    <component base="period" xOffset="-1066.4533174287271" yOffset="1300"/>
+    <component base="period" xOffset="-680.39331742872707" yOffset="1300"/>
+    <component base="period" xOffset="-306.94331742872703" yOffset="1300"/>
+    <component base="period" xOffset="61.656682571272881" yOffset="1300"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.798</real>
+        <real>1.0</real>
+        <real>0.6</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

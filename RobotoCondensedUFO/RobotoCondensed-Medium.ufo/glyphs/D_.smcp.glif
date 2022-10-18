@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="D.smcp" format="1">
+  <advance width="1002"/>
+  <outline>
+    <contour>
+      <point x="392" y="1320" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="392" y="10" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="215" y="581" type="move" name="cross"/>
+    </contour>
+    <contour>
+      <point x="982" y="1600" type="move" name="top_dd"/>
+    </contour>
+    <contour>
+      <point x="982" y="-407" type="move" name="bottom_dd"/>
+    </contour>
+    <contour>
+      <point x="982" y="1320" type="move" name="top0315"/>
+    </contour>
+    <contour>
+      <point x="109" y="0" type="line"/>
+      <point x="430" y="0" type="line"/>
+      <point x="725" y="0"/>
+      <point x="922" y="224"/>
+      <point x="922" y="557" type="curve"/>
+      <point x="922" y="607" type="line"/>
+      <point x="922" y="940"/>
+      <point x="724" y="1165"/>
+      <point x="435" y="1165" type="curve"/>
+      <point x="109" y="1165" type="line"/>
+    </contour>
+    <contour>
+      <point x="435" y="964" type="line"/>
+      <point x="615" y="964"/>
+      <point x="682" y="842"/>
+      <point x="682" y="609" type="curve"/>
+      <point x="682" y="557" type="line" smooth="yes"/>
+      <point x="682" y="326"/>
+      <point x="616" y="200"/>
+      <point x="430" y="200" type="curve"/>
+      <point x="349" y="200" type="line"/>
+      <point x="349" y="964" type="line"/>
+    </contour>
+  </outline>
+</glyph>

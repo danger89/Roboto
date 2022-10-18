@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="acutedotcomb.lc" format="1">
+  <advance width="0.0"/>
+  <outline>
+    <contour>
+      <point x="-421.07037617370895" y="1290" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="-295.28503393379611" y="2018" type="move" name="mkmktop_acc"/>
+    </contour>
+    <contour>
+      <point x="-482.08296430283059" y="1761.9221991177087" type="curve" smooth="yes"/>
+      <point x="-479.69465312562517" y="1680.0395240440034"/>
+      <point x="-413.66942470145494" y="1626.7894757927934"/>
+      <point x="-334.07083176252411" y="1628.4943006442306" type="curve" smooth="yes"/>
+      <point x="-253.08742842184495" y="1630.2287850549674"/>
+      <point x="-191.2704153659239" y="1688.3240201993722"/>
+      <point x="-193.99989070131454" y="1770.9877917043586" type="curve" smooth="yes"/>
+      <point x="-196.68040815901983" y="1852.1688449880535"/>
+      <point x="-262.54369935419174" y="1905.3969926586344"/>
+      <point x="-341.52449792476443" y="1903.8687360858901" type="curve" smooth="yes"/>
+      <point x="-422.64972478144455" y="1902.2989854198681"/>
+      <point x="-484.49875363257024" y="1844.7469560512084"/>
+    </contour>
+    <contour>
+      <point x="-576.11434940363017" y="1227.412635392722" type="line"/>
+      <point x="-325.65214106289096" y="1227.3920882657883" type="line"/>
+      <point x="-1.9863098587729695" y="1535.4896371534214" type="line"/>
+      <point x="-331.8696814334358" y="1535.635629371028" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.798</real>
+        <real>1.0</real>
+        <real>0.6</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

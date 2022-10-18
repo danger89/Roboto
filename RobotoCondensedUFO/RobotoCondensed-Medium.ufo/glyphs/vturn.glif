@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="vturn" format="1">
+  <advance width="900"/>
+  <unicode hex="028C"/>
+  <outline>
+    <contour>
+      <point x="448" y="1290" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="448" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="880" y="1290" type="move" name="top0315"/>
+    </contour>
+    <contour>
+      <point x="37" y="0" type="line"/>
+      <point x="285" y="0" type="line"/>
+      <point x="447.2861785888672" y="735.6973266601562" type="line"/>
+      <point x="614" y="0" type="line"/>
+      <point x="863" y="0" type="line"/>
+      <point x="554" y="1082" type="line"/>
+      <point x="343" y="1082" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.939</real>
+        <real>1.0</real>
+        <real>0.6</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

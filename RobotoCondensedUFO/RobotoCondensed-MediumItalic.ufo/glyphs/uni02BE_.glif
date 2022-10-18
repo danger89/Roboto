@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni02BE" format="1">
+  <advance width="303.61"/>
+  <unicode hex="02BE"/>
+  <outline>
+    <contour>
+      <point x="191.77855826784372" y="1171" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="43.926301759712814" y="1163" type="move" name="_rhalfring"/>
+    </contour>
+    <contour>
+      <point x="155.30253686790212" y="1122.4671171438522" type="line"/>
+      <point x="271.66150227377278" y="1131.1330891948394"/>
+      <point x="362.17553491807189" y="1201.6324649193091"/>
+      <point x="366.56521699747935" y="1325.239100744637" type="curve" smooth="yes"/>
+      <point x="369.99931654397403" y="1421.9380152338576"/>
+      <point x="311.34273037336453" y="1506.4990870591905"/>
+      <point x="212.65367237786506" y="1515.8706182329038" type="curve"/>
+      <point x="204.09045752244185" y="1419.5782243247891" type="line"/>
+      <point x="255.74602315590545" y="1410.2707060615403"/>
+      <point x="277.86218797148177" y="1381.0880972956736"/>
+      <point x="270.08773946624871" y="1325.9888432449711" type="curve" smooth="yes"/>
+      <point x="261.81004562465586" y="1267.3229770263115"/>
+      <point x="221.95305534253794" y="1225.7371461011726"/>
+      <point x="164.79935625849782" y="1215.9355662246408" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.967</real>
+        <real>0.6</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

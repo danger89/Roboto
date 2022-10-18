@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="E.unic" format="1">
+  <advance width="1257"/>
+  <outline>
+    <contour>
+      <point x="636" y="1637" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="661" y="10" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="793" y="0" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="1237" y="1600" type="move" name="top_dd"/>
+    </contour>
+    <contour>
+      <point x="1237" y="-407" type="move" name="bottom_dd"/>
+    </contour>
+    <contour>
+      <point x="1237" y="1637" type="move" name="top0315"/>
+    </contour>
+    <contour>
+      <point x="1096" y="190" type="curve"/>
+      <point x="960" y="348" type="line"/>
+      <point x="894" y="279"/>
+      <point x="802" y="200"/>
+      <point x="666" y="200" type="curve" smooth="yes"/>
+      <point x="447.086682" y="200.0"/>
+      <point x="352.963175772717" y="397.03654490429005"/>
+      <point x="347.2755661010742" y="645" type="curve"/>
+      <point x="1153" y="645" type="line"/>
+      <point x="1153" y="798" type="line" smooth="yes"/>
+      <point x="1153" y="1223"/>
+      <point x="982" y="1474"/>
+      <point x="630" y="1475" type="curve" smooth="yes"/>
+      <point x="331" y="1476"/>
+      <point x="97" y="1194"/>
+      <point x="97" y="790" type="curve" smooth="yes"/>
+      <point x="97" y="669" type="line" smooth="yes"/>
+      <point x="97" y="264"/>
+      <point x="293" y="-22"/>
+      <point x="657" y="-22" type="curve" smooth="yes"/>
+      <point x="840" y="-22"/>
+      <point x="960" y="58"/>
+    </contour>
+    <contour>
+      <point x="630.0" y="1252.9999999999998" type="curve" smooth="yes"/>
+      <point x="838" y="1253"/>
+      <point x="903" y="1093"/>
+      <point x="903" y="888" type="curve" smooth="yes"/>
+      <point x="903" y="849" type="line"/>
+      <point x="348.71104431152344" y="849" type="line"/>
+      <point x="362.21845415832" y="1077.838629004064"/>
+      <point x="455.720076" y="1253.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.798</real>
+        <real>1.0</real>
+        <real>0.6</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hturn" format="1">
+  <advance width="976.79"/>
+  <unicode hex="0265"/>
+  <outline>
+    <contour>
+      <point x="602.27962382629107" y="1290" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="299.24717949836713" y="-447" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="1076.609623826291" y="1290" type="move" name="top0315"/>
+    </contour>
+    <contour>
+      <point x="968.53331619059622" y="1081.9323543337082" type="line"/>
+      <point x="692.29443342083937" y="1081.9434054860114" type="line"/>
+      <point x="553.17539058459249" y="285.97755365642917" type="line"/>
+      <point x="518.63442773201086" y="246.10696982850226"/>
+      <point x="480.23262179301969" y="214.9366270043694"/>
+      <point x="424.61487955104178" y="215.7074485632408" type="curve" smooth="yes"/>
+      <point x="324.99921011468177" y="217.08804947416738"/>
+      <point x="334.09069879832629" y="324.82549954961917"/>
+      <point x="342.30044185554823" y="397.52394409185166" type="curve"/>
+      <point x="455.358042532274" y="1081.9398852271609" type="line"/>
+      <point x="179.17231989373454" y="1081.9395094722775" type="line"/>
+      <point x="65.54641044405794" y="400.76254681651943" type="line"/>
+      <point x="46.048873285140409" y="218.23003448049673"/>
+      <point x="75.478556312812714" y="-17.461430224844786"/>
+      <point x="305.17412081402085" y="-20.794634664156874" type="curve" smooth="yes"/>
+      <point x="399.23259494679047" y="-22.159554897662819"/>
+      <point x="471.90214796259892" y="26.815202712367793"/>
+      <point x="532.11199998657014" y="94.753648327193019" type="curve"/>
+      <point x="432.05635424536308" y="-416.92182721770592" type="line"/>
+      <point x="708.40701962373316" y="-416.93955637535299" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.939</real>
+        <real>1.0</real>
+        <real>0.6</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

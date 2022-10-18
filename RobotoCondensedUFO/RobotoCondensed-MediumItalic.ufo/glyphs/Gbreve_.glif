@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Gbreve" format="1">
+  <advance width="1166.9099999999999"/>
+  <unicode hex="011E"/>
+  <outline>
+    <contour>
+      <point x="748.53770478669094" y="1620" type="move" name="parent_top"/>
+    </contour>
+    <contour>
+      <point x="508.33406950908352" y="-6" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="1327.0820635163636" y="1600" type="move" name="top_dd"/>
+    </contour>
+    <contour>
+      <point x="980.30846203902161" y="-407" type="move" name="bottom_dd"/>
+    </contour>
+    <contour>
+      <point x="1330.5377047866909" y="1620" type="move" name="top0315"/>
+    </contour>
+    <contour>
+      <point x="799.9979364644945" y="1952" type="move" name="top"/>
+    </contour>
+    <component base="G"/>
+    <component base="breve" xOffset="213.2654776237739" yOffset="330"/>
+  </outline>
+</glyph>

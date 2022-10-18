@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bullet" format="1">
+  <advance width="694.52"/>
+  <unicode hex="2022"/>
+  <outline>
+    <contour>
+      <point x="158.05771305296906" y="724.2580543190312" type="line"/>
+      <point x="158.38568347683145" y="603.06070520171443"/>
+      <point x="238.45165323886596" y="518.24290748503142"/>
+      <point x="361.16029709759323" y="516.96441891712766" type="curve" smooth="yes"/>
+      <point x="491.77098235671576" y="515.6035998036665"/>
+      <point x="581.20535943427558" y="605.05214327742556"/>
+      <point x="588.24540626621638" y="733.10611574353015" type="curve" smooth="yes"/>
+      <point x="589.71863113607117" y="773.87347012694704" type="line" smooth="yes"/>
+      <point x="590.18358480898712" y="896.84207635477946"/>
+      <point x="512.51049654018743" y="986.41007806344601"/>
+      <point x="386.43231911721529" y="987.60116644398533" type="curve" smooth="yes"/>
+      <point x="253.62563567561364" y="988.85582050655614"/>
+      <point x="165.9631727927482" y="892.60029101337432"/>
+      <point x="159.29225244462651" y="764.12480798615866" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <real>0.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <real>0.0</real>
+          <key>y</key>
+          <real>1975.0</real>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

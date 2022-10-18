@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tilde" format="1">
+  <advance width="956.42"/>
+  <unicode hex="02DC"/>
+  <outline>
+    <contour>
+      <point x="587.14962815058186" y="1293" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="643.86094798725128" y="1657" type="move" name="mkmktop_acc"/>
+    </contour>
+    <contour>
+      <point x="818.34926820807379" y="1536.5846882468641" type="line"/>
+      <point x="805.05577793164537" y="1484.9506120559017"/>
+      <point x="777.3316092530747" y="1439.6234563594771"/>
+      <point x="717.94713369618364" y="1438.3186771311236" type="curve" smooth="yes"/>
+      <point x="622.75795977323025" y="1436.2272069996782"/>
+      <point x="553.56807654435977" y="1527.0251054788168"/>
+      <point x="457.0211619013885" y="1528.451418772712" type="curve" smooth="yes"/>
+      <point x="308.68726288847756" y="1530.6427949847828"/>
+      <point x="229.96020508867707" y="1388.0868370464214"/>
+      <point x="221.77699236378294" y="1257.5843760765918" type="curve"/>
+      <point x="385.8950911649282" y="1249.230931965637" type="line"/>
+      <point x="399.78686644725622" y="1300.2197666631773"/>
+      <point x="428.20276506800121" y="1344.258494229191"/>
+      <point x="486.69928642711216" y="1345.5447018745099" type="curve" smooth="yes"/>
+      <point x="582.18397443400158" y="1347.6441965602091"/>
+      <point x="648.92371163697862" y="1255.6462011023964"/>
+      <point x="747.98793757757062" y="1255.2363945381751" type="curve" smooth="yes"/>
+      <point x="898.08737572183657" y="1254.6154667062215"/>
+      <point x="971.48789272417412" y="1394.463623646614"/>
+      <point x="979.27180708668686" y="1526.4407317636176" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.798</real>
+        <real>1.0</real>
+        <real>0.6</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

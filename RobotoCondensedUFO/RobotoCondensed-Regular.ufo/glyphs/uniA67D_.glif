@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA67D" format="1">
+  <advance width="0"/>
+  <unicode hex="A67D"/>
+  <outline>
+    <contour>
+      <point x="-470" y="1170" type="move" name="_marktop"/>
+    </contour>
+    <contour>
+      <point x="-236" y="1445" type="line"/>
+      <point x="-364" y="1445" type="line"/>
+      <point x="-381.34664154052734" y="1369.349365234375" type="line"/>
+      <point x="-403.390046407225" y="1355.783224933202"/>
+      <point x="-427.401117" y="1346.0"/>
+      <point x="-464.99999999999994" y="1346.0" type="curve" smooth="yes"/>
+      <point x="-558" y="1346"/>
+      <point x="-582" y="1424"/>
+      <point x="-580" y="1508" type="curve"/>
+      <point x="-704" y="1508" type="line"/>
+      <point x="-716" y="1341"/>
+      <point x="-607" y="1239"/>
+      <point x="-470" y="1239" type="curve" smooth="yes"/>
+      <point x="-448.843427" y="1239.0"/>
+      <point x="-428.396486312492" y="1242.252481432255"/>
+      <point x="-409.1480712890625" y="1248.104248046875" type="curve"/>
+      <point x="-436" y="1131" type="line"/>
+      <point x="-308" y="1131" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.798</real>
+        <real>1.0</real>
+        <real>0.6</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rdescend" format="1">
+  <advance width="624"/>
+  <unicode hex="027C"/>
+  <outline>
+    <contour>
+      <point x="416" y="1290" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="416" y="-447" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="604" y="1290" type="move" name="top0315"/>
+    </contour>
+    <contour>
+      <point x="500.0" y="924.0" type="curve"/>
+      <point x="531" y="924"/>
+      <point x="551" y="922"/>
+      <point x="580" y="916" type="curve"/>
+      <point x="579" y="1088" type="line"/>
+      <point x="569" y="1094"/>
+      <point x="530" y="1102"/>
+      <point x="509" y="1102" type="curve"/>
+      <point x="418.058215" y="1102.0"/>
+      <point x="352.05392920475003" y="1052.57841066695"/>
+      <point x="307.8567657470703" y="972.7249603271484" type="curve"/>
+      <point x="304" y="1082" type="line"/>
+      <point x="133" y="1082" type="line"/>
+      <point x="133" y="-416" type="line"/>
+      <point x="310" y="-416" type="line"/>
+      <point x="310" y="775.6453704833984" type="line"/>
+      <point x="343.44189791285004" y="866.128919785575"/>
+      <point x="404.82054500000004" y="924.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+      </data>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.939</real>
+        <real>1.0</real>
+        <real>0.6</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="wynn" format="1">
+  <advance width="1153"/>
+  <unicode hex="01BF"/>
+  <outline>
+    <contour>
+      <point x="1073.0" y="530.0" type="curve" smooth="yes"/>
+      <point x="1073" y="551" type="line" smooth="yes"/>
+      <point x="1073" y="880"/>
+      <point x="924" y="1102"/>
+      <point x="650" y="1102" type="curve" smooth="yes"/>
+      <point x="522.933568" y="1102.0"/>
+      <point x="427.074702152048" y="1055.297768136096"/>
+      <point x="357.52989959716797" y="972.4890060424805" type="curve"/>
+      <point x="347" y="1082" type="line"/>
+      <point x="125" y="1082" type="line"/>
+      <point x="125" y="-416" type="line"/>
+      <point x="367" y="-416" type="line"/>
+      <point x="367" y="-165.59378814697266" type="line"/>
+      <point x="797.79566626816" y="-41.492538793984"/>
+      <point x="1073.0" y="124.85056000000002"/>
+    </contour>
+    <contour>
+      <point x="582.0" y="904.0000000000001" type="curve" smooth="yes"/>
+      <point x="757" y="904"/>
+      <point x="830" y="746"/>
+      <point x="830" y="551" type="curve" smooth="yes"/>
+      <point x="830" y="530" type="line" smooth="yes"/>
+      <point x="830.0" y="249.31907900000004"/>
+      <point x="639.4008914016861" y="98.96233481936005"/>
+      <point x="367" y="26.004600524902344" type="curve"/>
+      <point x="367" y="779.289176940918" type="line"/>
+      <point x="407.53146285093203" y="855.609485500968"/>
+      <point x="475.696588" y="904.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.939</real>
+        <real>1.0</real>
+        <real>0.6</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="comma" format="1">
+  <advance width="371.51"/>
+  <unicode hex="002C"/>
+  <outline>
+    <contour>
+      <point x="136.03612348268359" y="214" type="move" name="_bottom"/>
+    </contour>
+    <contour>
+      <point x="77.190313478090829" y="25" type="move" name="_right"/>
+    </contour>
+    <contour>
+      <point x="151.82052455729837" y="158.65987791978745" type="line"/>
+      <point x="98.082644091259922" y="158.71035819212929" type="line"/>
+      <point x="74.789893272726019" y="25.056653370757964" type="line" smooth="yes"/>
+      <point x="56.461130276818508" y="-71.825370594460907"/>
+      <point x="11.277401560676118" y="-148.04102511291771"/>
+      <point x="-54.269583199484991" y="-220.51590240916846" type="curve"/>
+      <point x="-20.300646802527297" y="-254.65747557578169" type="line"/>
+      <point x="61.003955993319963" y="-177.93194079978269"/>
+      <point x="110.38660506171593" y="-83.17905560138739"/>
+      <point x="130.02885426448074" y="26.852127579495654" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <real>0.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <real>0.0</real>
+          <key>y</key>
+          <real>901.0</real>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <real>0.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <real>0.0</real>
+          <key>y</key>
+          <real>555.0</real>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

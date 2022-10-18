@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="cyrillichook" format="1">
+  <advance width="502"/>
+  <outline>
+    <contour>
+      <point x="143" y="0" type="move" name="_right"/>
+    </contour>
+    <contour>
+      <point x="257" y="133" type="move" name="_bottom"/>
+    </contour>
+    <contour>
+      <point x="143" y="212" type="line"/>
+      <point x="143" y="-59" type="line"/>
+      <point x="143" y="-172"/>
+      <point x="111" y="-230"/>
+      <point x="57" y="-230" type="curve" smooth="yes"/>
+      <point x="36" y="-230"/>
+      <point x="-4" y="-226"/>
+      <point x="-26" y="-218" type="curve"/>
+      <point x="-38" y="-420" type="line"/>
+      <point x="1" y="-433"/>
+      <point x="33" y="-437"/>
+      <point x="73" y="-437" type="curve" smooth="yes"/>
+      <point x="267" y="-437"/>
+      <point x="383" y="-304"/>
+      <point x="383" y="-59" type="curve"/>
+      <point x="383" y="212" type="line"/>
+    </contour>
+  </outline>
+</glyph>

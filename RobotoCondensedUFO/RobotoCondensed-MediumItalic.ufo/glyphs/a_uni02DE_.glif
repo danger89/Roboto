@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="a_uni02DE" format="1">
+  <advance width="1289.43"/>
+  <outline>
+    <contour>
+      <point x="311.10580046182901" y="9" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="597.42962382629094" y="1290" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="1379.2496238262911" y="1290" type="move" name="top0315"/>
+    </contour>
+    <contour>
+      <point x="311.10580046182901" y="9" type="move" name="markbottom"/>
+    </contour>
+    <contour>
+      <point x="1098.1620635163638" y="1600" type="move" name="top_dd"/>
+    </contour>
+    <contour>
+      <point x="719.86076189018172" y="0" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="751.38846203902165" y="-407" type="move" name="bottom_dd"/>
+    </contour>
+    <contour>
+      <point x="705.09962382629101" y="1290" type="move" name="rhalfring"/>
+    </contour>
+    <component base="a"/>
+    <component base="uni02DE" xOffset="863.29999999999995"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.6</real>
+        <real>0.609</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

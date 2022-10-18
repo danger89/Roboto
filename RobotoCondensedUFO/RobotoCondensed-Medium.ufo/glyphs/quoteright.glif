@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quoteright" format="1">
+  <advance width="436"/>
+  <unicode hex="2019"/>
+  <outline>
+    <contour>
+      <point x="73" y="1536" type="move" name="_caron"/>
+    </contour>
+    <contour>
+      <point x="345" y="1536" type="line"/>
+      <point x="139" y="1536" type="line"/>
+      <point x="139" y="1391" type="line" smooth="yes"/>
+      <point x="139" y="1274"/>
+      <point x="106" y="1184"/>
+      <point x="60" y="1100" type="curve"/>
+      <point x="180" y="1022" type="line"/>
+      <point x="277" y="1112"/>
+      <point x="345" y="1266"/>
+      <point x="345" y="1392" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

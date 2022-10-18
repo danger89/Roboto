@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rturnascend" format="1">
+  <advance width="694"/>
+  <unicode hex="027A"/>
+  <outline>
+    <contour>
+      <point x="236" y="1600" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="236" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="694" y="1600" type="move" name="top0315"/>
+    </contour>
+    <contour>
+      <point x="374" y="0" type="line"/>
+      <point x="554" y="0" type="line"/>
+      <point x="554" y="1536" type="line"/>
+      <point x="368" y="1536" type="line"/>
+      <point x="368" y="313.6209259033203" type="line"/>
+      <point x="327.838719296875" y="218.98314964062502"/>
+      <point x="247.3555" y="158.00000000000003"/>
+      <point x="121.00000000000004" y="158.00000000000006" type="curve"/>
+      <point x="86" y="158"/>
+      <point x="62" y="160"/>
+      <point x="31" y="166" type="curve"/>
+      <point x="30" y="-6" type="line"/>
+      <point x="43" y="-12"/>
+      <point x="87" y="-20"/>
+      <point x="112" y="-20" type="curve"/>
+      <point x="230.33029" y="-20.0"/>
+      <point x="314.9058938623" y="35.74637559105002"/>
+      <point x="369.6060562133789" y="124.49510955810547" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.939</real>
+        <real>1.0</real>
+        <real>0.6</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

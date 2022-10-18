@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="cstretch" format="1">
+  <advance width="947"/>
+  <unicode hex="0297"/>
+  <outline>
+    <contour>
+      <point x="504" y="1633" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="504" y="-447" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="927" y="1633" type="move" name="top0315"/>
+    </contour>
+    <contour>
+      <point x="503" y="-237" type="curve" smooth="yes"/>
+      <point x="349" y="-237"/>
+      <point x="323" y="-67"/>
+      <point x="323" y="107" type="curve" smooth="yes"/>
+      <point x="323" y="558" type="line" smooth="yes"/>
+      <point x="323" y="729"/>
+      <point x="351" y="902"/>
+      <point x="502" y="902" type="curve"/>
+      <point x="604" y="902"/>
+      <point x="653" y="807"/>
+      <point x="658" y="693" type="curve"/>
+      <point x="883" y="693" type="line"/>
+      <point x="879" y="935"/>
+      <point x="734" y="1102"/>
+      <point x="505" y="1102" type="curve" smooth="yes"/>
+      <point x="218" y="1102"/>
+      <point x="82" y="856"/>
+      <point x="82" y="558" type="curve" smooth="yes"/>
+      <point x="82" y="107" type="line" smooth="yes"/>
+      <point x="82" y="-191"/>
+      <point x="217" y="-437"/>
+      <point x="505" y="-437" type="curve"/>
+      <point x="713" y="-437"/>
+      <point x="879" y="-268"/>
+      <point x="883" y="-56" type="curve"/>
+      <point x="658" y="-56" type="line"/>
+      <point x="654" y="-162"/>
+      <point x="592" y="-237"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.939</real>
+        <real>1.0</real>
+        <real>0.6</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

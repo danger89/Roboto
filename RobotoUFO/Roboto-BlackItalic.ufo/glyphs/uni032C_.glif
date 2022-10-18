@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni032C" format="1">
+  <advance width="0.0"/>
+  <unicode hex="032C"/>
+  <outline>
+    <contour>
+      <point x="-670.14923810981827" y="0" type="move" name="_markbottom"/>
+    </contour>
+    <contour>
+      <point x="-670.14923810981827" y="0" type="move" name="_bottom"/>
+    </contour>
+    <contour>
+      <point x="-738.05258907174925" y="-393" type="move" name="mkmkbottom_acc"/>
+    </contour>
+    <contour>
+      <point x="-271.25745432250147" y="-116.36865116040546" type="line"/>
+      <point x="-271.99447354540928" y="-94.846387067832012" type="line"/>
+      <point x="-539.96425436166066" y="-99.779528496560033" type="line"/>
+      <point x="-718.82842771449953" y="-233.94831686757971" type="line"/>
+      <point x="-847.32045129890798" y="-99.225205867054257" type="line"/>
+      <point x="-1091.9834613582575" y="-95.076650462450132" type="line"/>
+      <point x="-1092.1352907519226" y="-118.90772419243211" type="line"/>
+      <point x="-812.20304758940824" y="-392.69572584543562" type="line"/>
+      <point x="-623.88868897936902" y="-392.71810346542259" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.967</real>
+        <real>0.6</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

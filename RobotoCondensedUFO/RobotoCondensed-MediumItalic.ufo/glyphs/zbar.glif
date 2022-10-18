@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zbar" format="1">
+  <advance width="900.16"/>
+  <unicode hex="01B6"/>
+  <outline>
+    <contour>
+      <point x="566.38962382629097" y="1290" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="346.19858252534539" y="10" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="999.97962382629112" y="1290" type="move" name="top0315"/>
+    </contour>
+    <contour>
+      <point x="144.84077565918273" y="881.10164231677209" type="line"/>
+      <point x="568.79594210817902" y="880.61523482519988" type="line"/>
+      <point x="376.96922125811949" y="636.45360837314115" type="line"/>
+      <point x="133.99148107989839" y="635.88303791638214" type="line"/>
+      <point x="103.5407585957788" y="463.16451966843732" type="line"/>
+      <point x="242.37751914845398" y="462.71024678441461" type="line"/>
+      <point x="16.824571793254137" y="174.3050577616068" type="line"/>
+      <point x="-13.494043731427908" y="0.0" type="line"/>
+      <point x="711.66118208475052" y="0.0" type="line"/>
+      <point x="746.90647367056567" y="199.9047534014685" type="line"/>
+      <point x="302.04613426086587" y="200.36588599157147" type="line"/>
+      <point x="507.94471189039029" y="462.54784089742992" type="line"/>
+      <point x="740.53411953510511" y="463.13247690375044" type="line"/>
+      <point x="770.91176710528975" y="635.83737512875405" type="line"/>
+      <point x="642.60982382017903" y="636.30389989025787" type="line"/>
+      <point x="859.70633837449657" y="913.75473197183408" type="line"/>
+      <point x="888.90558497225959" y="1081.8431603044889" type="line"/>
+      <point x="180.26027020782323" y="1081.9271103295473" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.798</real>
+        <real>1.0</real>
+        <real>0.6</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

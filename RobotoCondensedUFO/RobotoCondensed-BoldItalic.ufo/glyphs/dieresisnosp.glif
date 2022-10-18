@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresisnosp" format="1">
+  <advance width="0.0"/>
+  <unicode hex="0308"/>
+  <outline>
+    <contour>
+      <point x="-398.76037617370901" y="1290" type="move" name="_marktop"/>
+    </contour>
+    <contour>
+      <point x="-344.67959029308713" y="1603" type="move" name="mkmktop"/>
+    </contour>
+    <contour>
+      <point x="-385.62893934646536" y="1366" type="move" name="parent_top"/>
+    </contour>
+    <contour>
+      <point x="-309.83296388522933" y="1360.9709878500692" type="curve" smooth="yes"/>
+      <point x="-308.9741837921872" y="1290.7033448424181"/>
+      <point x="-252.21081459934641" y="1235.0959460305512"/>
+      <point x="-181.76065615111708" y="1236.8689735665794" type="curve" smooth="yes"/>
+      <point x="-109.98633484506993" y="1238.6753264671038"/>
+      <point x="-55.130303954502644" y="1297.6521908305833"/>
+      <point x="-55.905927599582114" y="1368.998938730972" type="curve" smooth="yes"/>
+      <point x="-56.678537110686342" y="1440.0684276047259"/>
+      <point x="-113.57100318183494" y="1496.015163258975"/>
+      <point x="-184.8917691453756" y="1494.1278343547413" type="curve" smooth="yes"/>
+      <point x="-256.8300492129149" y="1492.2241644563874"/>
+      <point x="-310.70187449682749" y="1432.0675364962483"/>
+    </contour>
+    <contour>
+      <point x="-715.17285109783575" y="1362.0242542576859" type="curve" smooth="yes"/>
+      <point x="-714.38890342318007" y="1290.8636485231075"/>
+      <point x="-657.21728983096421" y="1236.0142622563183"/>
+      <point x="-586.1314660290044" y="1237.8772323587159" type="curve" smooth="yes"/>
+      <point x="-514.3961595098699" y="1239.7572236732119"/>
+      <point x="-460.37924031942811" y="1298.8333273629548"/>
+      <point x="-461.2407487390758" y="1369.9972415634284" type="curve" smooth="yes"/>
+      <point x="-462.09154066610523" y="1440.275932191129"/>
+      <point x="-518.86680754108966" y="1495.8973383709283"/>
+      <point x="-589.32616369184655" y="1494.1283299408663" type="curve" smooth="yes"/>
+      <point x="-661.08330332279468" y="1492.3267383303398"/>
+      <point x="-715.95878252843829" y="1433.3649297588743"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.798</real>
+        <real>1.0</real>
+        <real>0.6</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

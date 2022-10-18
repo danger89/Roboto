@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bridgesubnosp" format="1">
+  <advance width="0.0"/>
+  <unicode hex="032A"/>
+  <outline>
+    <contour>
+      <point x="-565.38923810981828" y="0" type="move" name="_markbottom"/>
+    </contour>
+    <contour>
+      <point x="-645.56011558141097" y="-464" type="move" name="mkmkbottom_acc"/>
+    </contour>
+    <contour>
+      <point x="-926.21100748246783" y="-463.91808924499901" type="line"/>
+      <point x="-795.93946964733971" y="-463.91972462819149" type="line"/>
+      <point x="-754.0457760938616" y="-227.09082716755782" type="line"/>
+      <point x="-454.67433125241678" y="-227.08219113933708" type="line"/>
+      <point x="-496.56860505936834" y="-463.91441252019547" type="line"/>
+      <point x="-366.15829801598829" y="-463.92462948985474" type="line"/>
+      <point x="-304.18782374991673" y="-110.08480334442312" type="line"/>
+      <point x="-864.24043037638216" y="-110.07377064352276" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.798</real>
+        <real>1.0</real>
+        <real>0.6</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Eogonek.smcp" format="1">
+  <advance width="880"/>
+  <outline>
+    <contour>
+      <point x="469" y="1320" type="move" name="parent_top"/>
+    </contour>
+    <contour>
+      <point x="469" y="8" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="860" y="1600" type="move" name="top_dd"/>
+    </contour>
+    <contour>
+      <point x="860" y="-407" type="move" name="bottom_dd"/>
+    </contour>
+    <contour>
+      <point x="860" y="1320" type="move" name="top0315"/>
+    </contour>
+    <contour>
+      <point x="469" y="1320" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="147" y="0" type="line"/>
+      <point x="655.4007186889648" y="0" type="line"/>
+      <point x="564.8576863888001" y="-72.61518220319999"/>
+      <point x="513.0000000000001" y="-159.87315999999998"/>
+      <point x="513.0000000000001" y="-245.00000000000003" type="curve" smooth="yes"/>
+      <point x="513" y="-358"/>
+      <point x="575" y="-415"/>
+      <point x="659" y="-415" type="curve" smooth="yes"/>
+      <point x="720" y="-415"/>
+      <point x="758" y="-391"/>
+      <point x="782" y="-371" type="curve"/>
+      <point x="770" y="-285" type="line"/>
+      <point x="752" y="-299"/>
+      <point x="723" y="-318"/>
+      <point x="683" y="-318" type="curve" smooth="yes"/>
+      <point x="629" y="-318"/>
+      <point x="612" y="-280"/>
+      <point x="612" y="-234" type="curve" smooth="yes"/>
+      <point x="612" y="-142"/>
+      <point x="686" y="-69"/>
+      <point x="762" y="0" type="curve"/>
+      <point x="809" y="0" type="line"/>
+      <point x="809" y="104" type="line"/>
+      <point x="258" y="104" type="line"/>
+      <point x="258" y="552" type="line"/>
+      <point x="736" y="552" type="line"/>
+      <point x="736" y="656" type="line"/>
+      <point x="258" y="656" type="line"/>
+      <point x="258" y="1060" type="line"/>
+      <point x="806" y="1060" type="line"/>
+      <point x="806" y="1165" type="line"/>
+      <point x="147" y="1165" type="line"/>
+    </contour>
+  </outline>
+</glyph>

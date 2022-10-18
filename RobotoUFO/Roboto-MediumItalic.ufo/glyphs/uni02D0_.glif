@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni02D0" format="1">
+  <advance width="485.0"/>
+  <unicode hex="02D0"/>
+  <outline>
+    <contour>
+      <point x="182.49252184761718" y="1082.1084252461417" type="line"/>
+      <point x="282.90220307439984" y="839.59398107913364" type="line"/>
+      <point x="304.2223322440102" y="840.39005434230035" type="line"/>
+      <point x="484.94858281967129" y="1081.4674141952512" type="line"/>
+    </contour>
+    <contour>
+      <point x="-9.0755955231989986" y="0.0" type="line"/>
+      <point x="282.37348991453445" y="0.0" type="line"/>
+      <point x="181.12904380833635" y="242.73369194241394" type="line"/>
+      <point x="159.70903793485388" y="241.95547499082215" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <real>90.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <real>221.0</real>
+          <key>y</key>
+          <real>0.0</real>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.967</real>
+        <real>0.6</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

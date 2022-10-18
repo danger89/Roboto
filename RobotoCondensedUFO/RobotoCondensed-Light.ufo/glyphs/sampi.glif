@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sampi" format="1">
+  <advance width="1178"/>
+  <unicode hex="03E1"/>
+  <outline>
+    <contour>
+      <point x="1110" y="-376" type="line"/>
+      <point x="1110" y="583"/>
+      <point x="883" y="1154"/>
+      <point x="195" y="1571" type="curve"/>
+      <point x="95" y="1510" type="line" name="hr00"/>
+      <point x="350.35170500000004" y="1355.702374"/>
+      <point x="540.5021964927031" y="1186.580327222687"/>
+      <point x="679.1838150024414" y="986.9502563476562" type="curve"/>
+      <point x="75" y="571" type="line"/>
+      <point x="121" y="482" type="line"/>
+      <point x="733.1470184326172" y="903.4325180053711" type="line"/>
+      <point x="806.4635117301227" y="781.1759808539807"/>
+      <point x="862.6866330140742" y="647.6641319513712"/>
+      <point x="904.5950088500977" y="499.7246398925781" type="curve"/>
+      <point x="278" y="69" type="line"/>
+      <point x="324" y="-20" type="line"/>
+      <point x="930.7263946533203" y="397.70069885253906" type="line"/>
+      <point x="985.637943968048" y="159.34318904733303"/>
+      <point x="1008.0" y="-115.01496599999999"/>
+      <point x="1008.0000000000001" y="-436.99999999999994" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+      </data>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.939</real>
+        <real>1.0</real>
+        <real>0.6</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

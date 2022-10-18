@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="radical" format="1">
+  <advance width="1074"/>
+  <unicode hex="221A"/>
+  <outline>
+    <contour>
+      <point x="69" y="570" type="line"/>
+      <point x="252.51937866210938" y="570" type="line"/>
+      <point x="434" y="-1" type="line"/>
+      <point x="629" y="-1" type="line"/>
+      <point x="1036" y="1456" type="line"/>
+      <point x="827" y="1456" type="line"/>
+      <point x="526.2688140869141" y="341.47200775146484" type="line"/>
+      <point x="405" y="773" type="line"/>
+      <point x="69" y="773" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <real>0.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <real>0.0</real>
+          <key>y</key>
+          <real>901.0</real>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <real>0.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <real>0.0</real>
+          <key>y</key>
+          <real>555.0</real>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

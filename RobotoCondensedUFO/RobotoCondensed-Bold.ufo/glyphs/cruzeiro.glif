@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="cruzeiro" format="1">
+  <advance width="1168"/>
+  <unicode hex="20A2"/>
+  <outline>
+    <contour>
+      <point x="1104" y="486" type="curve"/>
+      <point x="810" y="486" type="line"/>
+      <point x="805.111299" y="392.028303"/>
+      <point x="786.3550463831131" y="324.021383495448"/>
+      <point x="747" y="281.5112075805664" type="curve"/>
+      <point x="747" y="513.9815139770508" type="line"/>
+      <point x="773.2216459012" y="579.6783695280001"/>
+      <point x="823.59913" y="615.0000000000001"/>
+      <point x="904.0" y="615.0" type="curve" smooth="yes"/>
+      <point x="932" y="615"/>
+      <point x="972" y="610"/>
+      <point x="998" y="607" type="curve"/>
+      <point x="1001" y="887" type="line"/>
+      <point x="982" y="895"/>
+      <point x="948" y="900"/>
+      <point x="923" y="900" type="curve" smooth="yes"/>
+      <point x="844.255727" y="900.0"/>
+      <point x="780.963438233567" y="848.983925070128"/>
+      <point x="737.1315307617188" y="763.2125701904297" type="curve"/>
+      <point x="728" y="880" type="line"/>
+      <point x="464" y="880" type="line"/>
+      <point x="464" y="283.74576568603516" type="line"/>
+      <point x="402.919464294208" y="352.502544085104"/>
+      <point x="381.0" y="484.92589599999997"/>
+      <point x="381.0" y="681.0" type="curve" smooth="yes"/>
+      <point x="381" y="777" type="line" smooth="yes"/>
+      <point x="381" y="1085"/>
+      <point x="449" y="1229"/>
+      <point x="604" y="1229" type="curve" smooth="yes"/>
+      <point x="757" y="1229"/>
+      <point x="803" y="1134"/>
+      <point x="812" y="962" type="curve"/>
+      <point x="1106" y="962" type="line"/>
+      <point x="1083" y="1259"/>
+      <point x="922" y="1477"/>
+      <point x="604" y="1477" type="curve" smooth="yes"/>
+      <point x="287" y="1477"/>
+      <point x="82" y="1206"/>
+      <point x="82" y="775" type="curve"/>
+      <point x="82" y="681" type="line"/>
+      <point x="82" y="250"/>
+      <point x="277" y="-20"/>
+      <point x="600" y="-20" type="curve" smooth="yes"/>
+      <point x="912" y="-20"/>
+      <point x="1089" y="189"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.939</real>
+        <real>1.0</real>
+        <real>0.6</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

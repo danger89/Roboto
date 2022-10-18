@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="cedillanosp" format="1">
+  <advance width="0.0"/>
+  <unicode hex="0327"/>
+  <outline>
+    <contour>
+      <point x="-693.42923810981824" y="0" type="move" name="_markbottom"/>
+    </contour>
+    <contour>
+      <point x="-757.80178245559091" y="0.0" type="line"/>
+      <point x="-802.85573406401898" y="-134.4312174453172" type="line"/>
+      <point x="-747.3804230859746" y="-141.02018494634763"/>
+      <point x="-653.08693442905246" y="-142.96253858308512"/>
+      <point x="-665.70768952628941" y="-222.34996442848924" type="curve" smooth="yes"/>
+      <point x="-679.37886173361323" y="-308.34475328753882"/>
+      <point x="-775.53543499895272" y="-325.52355245868358"/>
+      <point x="-847.38657722343521" y="-328.66812064874432" type="curve"/>
+      <point x="-851.03507706262837" y="-436.88098463619986" type="line"/>
+      <point x="-710.31482126750973" y="-432.67291789471267"/>
+      <point x="-529.3187983267502" y="-392.48654678290347"/>
+      <point x="-524.59226761378704" y="-219.236704340009" type="curve" smooth="yes"/>
+      <point x="-522.25519876108979" y="-133.57200964173785"/>
+      <point x="-565.17567813691494" y="-74.731967435350839"/>
+      <point x="-648.15090560520036" y="-55.551339967731579" type="curve"/>
+      <point x="-626.99121982936731" y="0.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.967</real>
+        <real>0.6</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

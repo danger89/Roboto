@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Omega.smcp" format="1">
+  <advance width="1074"/>
+  <outline>
+    <contour>
+      <point x="93" y="1165" type="move" name="tonos"/>
+    </contour>
+    <contour>
+      <point x="540" y="10" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="353" y="607" type="curve" smooth="yes"/>
+      <point x="353" y="655" type="line" smooth="yes"/>
+      <point x="353" y="825"/>
+      <point x="405" y="947"/>
+      <point x="536" y="947" type="curve" smooth="yes"/>
+      <point x="670" y="947"/>
+      <point x="722" y="825"/>
+      <point x="722" y="655" type="curve" smooth="yes"/>
+      <point x="722" y="607" type="line"/>
+      <point x="722" y="408"/>
+      <point x="684" y="297"/>
+      <point x="576" y="242" type="curve"/>
+      <point x="576" y="0" type="line"/>
+      <point x="987" y="0" type="line"/>
+      <point x="987" y="238" type="line"/>
+      <point x="821.1960296630859" y="238" type="line"/>
+      <point x="931.400865407152" y="330.817961786544"/>
+      <point x="1005.0" y="475.91019600000004"/>
+      <point x="1004.9999999999999" y="655.0" type="curve" smooth="yes"/>
+      <point x="1005" y="689" type="line" smooth="yes"/>
+      <point x="1005" y="947"/>
+      <point x="831" y="1181"/>
+      <point x="536" y="1181" type="curve" smooth="yes"/>
+      <point x="242" y="1181"/>
+      <point x="69" y="947"/>
+      <point x="69" y="687" type="curve" smooth="yes"/>
+      <point x="69" y="655" type="line" smooth="yes"/>
+      <point x="69.0" y="476.47070499999995"/>
+      <point x="142.881689075775" y="330.9839744610249"/>
+      <point x="253.77161407470703" y="238" type="curve"/>
+      <point x="93" y="238" type="line"/>
+      <point x="93" y="0" type="line"/>
+      <point x="503" y="0" type="line"/>
+      <point x="503" y="242" type="line"/>
+      <point x="393" y="296"/>
+      <point x="353" y="408"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.939</real>
+        <real>1.0</real>
+        <real>0.6</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

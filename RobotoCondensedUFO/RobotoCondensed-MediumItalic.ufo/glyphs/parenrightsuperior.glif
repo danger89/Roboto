@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="parenrightsuperior" format="1">
+  <advance width="460.75"/>
+  <unicode hex="207E"/>
+  <outline>
+    <contour>
+      <point x="451.14807692533861" y="1000.7891849199906" type="line" smooth="yes"/>
+      <point x="471.62259392518843" y="1183.408569802489"/>
+      <point x="460.86703393903366" y="1452.9487609950163"/>
+      <point x="302.97485384582291" y="1581.424966237136" type="curve"/>
+      <point x="229.63519888461803" y="1456.1867672611877" type="line"/>
+      <point x="302.04235467976423" y="1320.0100859505621"/>
+      <point x="283.04715921317774" y="1143.0134230087288"/>
+      <point x="264.22274488304663" y="996.61368473959033" type="curve" smooth="yes"/>
+      <point x="261.85079665697606" y="977.71544448343809" type="line" smooth="yes"/>
+      <point x="236.82697137652485" y="798.99379266639062"/>
+      <point x="178.58142121238052" y="656.95822355067367"/>
+      <point x="70.434163045756165" y="514.92978975753033" type="curve"/>
+      <point x="123.14308485698622" y="387.86372771080437" type="line"/>
+      <point x="329.83386998727673" y="500.44572087738834"/>
+      <point x="420.85962352670782" y="764.57635703872893"/>
+      <point x="449.07449593227329" y="983.32560388504521" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.967</real>
+        <real>0.6</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="acutecomb" format="1">
+  <advance width="0.0"/>
+  <unicode hex="0301"/>
+  <outline>
+    <contour>
+      <point x="-403.61037617370903" y="1290" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="-403.61037617370903" y="1290" type="move" name="_marktop"/>
+    </contour>
+    <contour>
+      <point x="-338.81710235507262" y="1665" type="move" name="mkmktop"/>
+    </contour>
+    <contour>
+      <point x="-278.27720839371989" y="1381" type="move" name="parent_top"/>
+    </contour>
+    <contour>
+      <point x="-563.50823514961371" y="1227.4124128729836" type="line"/>
+      <point x="-313.06000332214575" y="1227.3873102866671" type="line"/>
+      <point x="9.6304865686402792" y="1535.5018276262663" type="line"/>
+      <point x="-319.2512257438234" y="1535.6399553703125" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.798</real>
+        <real>1.0</real>
+        <real>0.6</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

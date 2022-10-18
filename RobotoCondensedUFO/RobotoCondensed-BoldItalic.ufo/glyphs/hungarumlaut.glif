@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hungarumlaut" format="1">
+  <advance width="735.26"/>
+  <unicode hex="02DD"/>
+  <outline>
+    <contour>
+      <point x="439.31962382629104" y="1290" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="498.92943573943649" y="1635" type="move" name="mkmktop_acc"/>
+    </contour>
+    <contour>
+      <point x="153.74166165359833" y="1234.3616719821603" type="line"/>
+      <point x="366.03266325030876" y="1234.3811513869198" type="line"/>
+      <point x="603.84663676156663" y="1534.5385134638407" type="line"/>
+      <point x="351.17453642246312" y="1534.6846468249391" type="line"/>
+    </contour>
+    <contour>
+      <point x="460.373733687411" y="1234.4160314561675" type="line"/>
+      <point x="678.02911363815758" y="1234.3957756909824" type="line"/>
+      <point x="944.23189681586427" y="1534.5379493915011" type="line"/>
+      <point x="687.5091115358814" y="1534.6415140639849" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <real>0.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <real>0.0</real>
+          <key>y</key>
+          <real>901.0</real>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <real>0.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <real>0.0</real>
+          <key>y</key>
+          <real>555.0</real>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

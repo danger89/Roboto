@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Zcaron.smcp" format="1">
+  <advance width="910.8299999999999"/>
+  <outline>
+    <contour>
+      <point x="587.09308573178191" y="1320" type="move" name="parent_top"/>
+    </contour>
+    <contour>
+      <point x="360.7485825253454" y="10" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="1064.2120635163637" y="1600" type="move" name="top_dd"/>
+    </contour>
+    <contour>
+      <point x="717.4384620390216" y="-407" type="move" name="bottom_dd"/>
+    </contour>
+    <contour>
+      <point x="1015.8330857317819" y="1320" type="move" name="top0315"/>
+    </contour>
+    <contour>
+      <point x="647.11612812053477" y="1671" type="move" name="top"/>
+    </contour>
+    <component base="Z.smcp"/>
+    <component base="caron" xOffset="55.623461905490899" yOffset="30"/>
+  </outline>
+</glyph>

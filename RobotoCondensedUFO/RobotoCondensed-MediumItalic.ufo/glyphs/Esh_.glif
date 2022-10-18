@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Esh" format="1">
+  <advance width="1007.16"/>
+  <unicode hex="01A9"/>
+  <outline>
+    <contour>
+      <point x="676.45153796097838" y="1607" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="1151.7515379609783" y="1607" type="move" name="top0315"/>
+    </contour>
+    <contour>
+      <point x="400.51858252534538" y="10" type="move" name="bottom"/>
+    </contour>
+    <component base="Sigma"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.798</real>
+        <real>1.0</real>
+        <real>0.6</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

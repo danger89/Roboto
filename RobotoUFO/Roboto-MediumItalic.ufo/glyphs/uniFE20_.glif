@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniFE20" format="1">
+  <advance width="0.0"/>
+  <unicode hex="FE20"/>
+  <outline>
+    <contour>
+      <point x="-279.81422379567266" y="1170" type="move" name="_marktop"/>
+    </contour>
+    <contour>
+      <point x="156.74302025556062" y="1536.6961938553591" type="line"/>
+      <point x="-126.24843601658773" y="1533.8332263529539"/>
+      <point x="-569.5146934609453" y="1490.1968082848543"/>
+      <point x="-658.00149398239205" y="1156.6637835712093" type="curve"/>
+      <point x="-448.39538164376506" y="1157.1157371616962" type="line"/>
+      <point x="-340.30452245900693" y="1351.8418420086393"/>
+      <point x="-54.584000693087035" y="1368.4870193881045"/>
+      <point x="140.4275729556519" y="1369.0482910159167" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.798</real>
+        <real>1.0</real>
+        <real>0.6</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

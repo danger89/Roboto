@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="schwa" format="1">
+  <advance width="955"/>
+  <unicode hex="0259"/>
+  <outline>
+    <contour>
+      <point x="488" y="1291" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="503" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="785" y="63" type="move" name="right"/>
+    </contour>
+    <contour>
+      <point x="761" y="654" type="move" name="rhotichook"/>
+    </contour>
+    <contour>
+      <point x="935" y="1291" type="move" name="top0315"/>
+    </contour>
+    <contour>
+      <point x="869" y="519" type="curve" smooth="yes"/>
+      <point x="869" y="563" type="line" smooth="yes"/>
+      <point x="869" y="877"/>
+      <point x="713" y="1104"/>
+      <point x="452" y="1104" type="curve"/>
+      <point x="284" y="1104"/>
+      <point x="182" y="1034"/>
+      <point x="129" y="970" type="curve"/>
+      <point x="198" y="844" type="line"/>
+      <point x="253" y="904"/>
+      <point x="333" y="952"/>
+      <point x="452" y="952" type="curve" smooth="yes"/>
+      <point x="610.294276" y="952.0"/>
+      <point x="686.605251596072" y="788.965027605825"/>
+      <point x="691.7235260009766" y="585" type="curve"/>
+      <point x="105" y="585" type="line"/>
+      <point x="105" y="463" type="line" smooth="yes"/>
+      <point x="105" y="181"/>
+      <point x="220" y="-19"/>
+      <point x="480" y="-19" type="curve" smooth="yes"/>
+      <point x="683" y="-21"/>
+      <point x="869" y="203"/>
+    </contour>
+    <contour>
+      <point x="480.0" y="131.99999999999994" type="curve"/>
+      <point x="338" y="132"/>
+      <point x="282" y="263"/>
+      <point x="282" y="408" type="curve"/>
+      <point x="282" y="433" type="line"/>
+      <point x="687.0409240722656" y="433" type="line"/>
+      <point x="666.738470048174" y="260.466991048997"/>
+      <point x="585.993159" y="131.99999999999997"/>
+    </contour>
+  </outline>
+</glyph>

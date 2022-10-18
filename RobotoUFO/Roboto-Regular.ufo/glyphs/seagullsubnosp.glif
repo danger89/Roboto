@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="seagullsubnosp" format="1">
+  <advance width="0"/>
+  <unicode hex="033C"/>
+  <outline>
+    <contour>
+      <point x="-585" y="0" type="move" name="_markbottom"/>
+    </contour>
+    <contour>
+      <point x="-585" y="-326" type="move" name="mkmkbottom_acc"/>
+    </contour>
+    <contour>
+      <point x="-414" y="-223" type="curve" smooth="yes"/>
+      <point x="-347" y="-223"/>
+      <point x="-295" y="-271"/>
+      <point x="-295" y="-345" type="curve"/>
+      <point x="-202" y="-345" type="line"/>
+      <point x="-202" y="-210"/>
+      <point x="-291" y="-113"/>
+      <point x="-414" y="-113" type="curve" smooth="yes"/>
+      <point x="-490.44742" y="-113.0"/>
+      <point x="-548.109885635033" y="-141.922866244473"/>
+      <point x="-584.7080307006836" y="-190.18370056152344" type="curve"/>
+      <point x="-621.5760191278081" y="-141.930811861248"/>
+      <point x="-679.54208" y="-113.0"/>
+      <point x="-756.0000000000001" y="-113.00000000000001" type="curve" smooth="yes"/>
+      <point x="-879" y="-113"/>
+      <point x="-967" y="-210"/>
+      <point x="-967" y="-345" type="curve"/>
+      <point x="-874" y="-345" type="line"/>
+      <point x="-874" y="-271"/>
+      <point x="-822" y="-223"/>
+      <point x="-756" y="-223" type="curve" smooth="yes"/>
+      <point x="-671" y="-223"/>
+      <point x="-631" y="-271"/>
+      <point x="-631" y="-345" type="curve"/>
+      <point x="-538" y="-345" type="line"/>
+      <point x="-538" y="-271"/>
+      <point x="-498" y="-223"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.798</real>
+        <real>1.0</real>
+        <real>0.6</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

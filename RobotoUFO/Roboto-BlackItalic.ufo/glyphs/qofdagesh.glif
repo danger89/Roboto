@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="qofdagesh" format="1">
+  <advance width="715.86"/>
+  <unicode hex="02DF"/>
+  <outline>
+    <contour>
+      <point x="455.65795556916373" y="1160" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="753.13755421605379" y="1266.8316810731781" type="line"/>
+      <point x="630.60357469463452" y="1422.4681058278506" type="line"/>
+      <point x="809.04825692850181" y="1576.6821451360456" type="line"/>
+      <point x="689.58254806185653" y="1723.1893021883059" type="line"/>
+      <point x="514.05419564481167" y="1571.686311563273" type="line"/>
+      <point x="393.1316828520217" y="1725.4313188101044" type="line"/>
+      <point x="252.73584688210047" y="1604.2164515141692" type="line"/>
+      <point x="374.86725838262691" y="1449.5171217179698" type="line"/>
+      <point x="197.23692283704912" y="1296.3100492209358" type="line"/>
+      <point x="316.42169714354048" y="1148.8082662712709" type="line"/>
+      <point x="491.72797578969528" y="1300.3110119530527" type="line"/>
+      <point x="613.06493218846322" y="1146.4760992874465" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <real>0.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <real>0.0</real>
+          <key>y</key>
+          <real>1066.0</real>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <real>90.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <real>326.0</real>
+          <key>y</key>
+          <real>0.0</real>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.967</real>
+        <real>0.6</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

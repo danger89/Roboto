@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kturn" format="1">
+  <advance width="1006.86"/>
+  <unicode hex="029E"/>
+  <outline>
+    <contour>
+      <point x="600.33962382629102" y="1290" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="300.21717949836716" y="-447" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="1126.079623826291" y="1290" type="move" name="top0315"/>
+    </contour>
+    <contour>
+      <point x="954.8198278768341" y="1081.9323608589225" type="line"/>
+      <point x="774.05044674963858" y="1081.9374815888709" type="line"/>
+      <point x="709.58813633530292" y="710.27433643359643" type="line"/>
+      <point x="566.73826100370945" y="582.31243469355866" type="line"/>
+      <point x="289.71506562775778" y="1081.9556027231652" type="line"/>
+      <point x="92.006502573915739" y="1081.9648084480393" type="line"/>
+      <point x="434.32376392299159" y="460.54352358101789" type="line"/>
+      <point x="-62.681862532388479" y="0.0" type="line"/>
+      <point x="172.21574786590025" y="0.0" type="line"/>
+      <point x="555.66518295586479" y="352.25085800669177" type="line"/>
+      <point x="667.41114948942368" y="464.0533704898578" type="line"/>
+      <point x="513.9668583034312" y="-415.93563596083408" type="line"/>
+      <point x="694.73761171115018" y="-415.94492439263121" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.939</real>
+        <real>1.0</real>
+        <real>0.6</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

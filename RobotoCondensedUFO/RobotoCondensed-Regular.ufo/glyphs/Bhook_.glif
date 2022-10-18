@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Bhook" format="1">
+  <advance width="1295"/>
+  <unicode hex="0181"/>
+  <outline>
+    <contour>
+      <point x="46" y="1173" type="curve" smooth="yes"/>
+      <point x="46" y="1138"/>
+      <point x="52" y="1089"/>
+      <point x="60" y="1057" type="curve"/>
+      <point x="201" y="1058" type="line"/>
+      <point x="196" y="1078"/>
+      <point x="195" y="1106"/>
+      <point x="195" y="1125" type="curve" smooth="yes"/>
+      <point x="195.0" y="1236.927291"/>
+      <point x="231.300852330813" y="1296.856063796403"/>
+      <point x="335" y="1297.969482421875" type="curve"/>
+      <point x="335" y="0" type="line"/>
+      <point x="768" y="0" type="line"/>
+      <point x="1016" y="0"/>
+      <point x="1177" y="148"/>
+      <point x="1177" y="420" type="curve" smooth="yes"/>
+      <point x="1177.0" y="585.594724"/>
+      <point x="1102.518480896416" y="724.0347274934851"/>
+      <point x="961.7563095092773" y="767.6560592651367" type="curve"/>
+      <point x="1076.410937184949" y="824.955134249445"/>
+      <point x="1149.0" y="934.00998"/>
+      <point x="1149.0" y="1068.0" type="curve"/>
+      <point x="1149" y="1339"/>
+      <point x="1000" y="1456"/>
+      <point x="750" y="1456" type="curve"/>
+      <point x="335" y="1456" type="line"/>
+      <point x="335" y="1455.9830932617188" type="line"/>
+      <point x="149" y="1456"/>
+      <point x="46" y="1363"/>
+    </contour>
+    <contour>
+      <point x="518" y="1298" type="line"/>
+      <point x="750" y="1298" type="line"/>
+      <point x="896" y="1298"/>
+      <point x="965" y="1230"/>
+      <point x="965" y="1070" type="curve"/>
+      <point x="965" y="923"/>
+      <point x="876" y="836"/>
+      <point x="752" y="836" type="curve"/>
+      <point x="518" y="836" type="line"/>
+    </contour>
+    <contour>
+      <point x="993" y="418" type="curve" smooth="yes"/>
+      <point x="993" y="258"/>
+      <point x="911" y="157"/>
+      <point x="768" y="157" type="curve" smooth="yes"/>
+      <point x="518" y="157" type="line"/>
+      <point x="518" y="681" type="line"/>
+      <point x="775" y="681" type="line" smooth="yes"/>
+      <point x="930" y="681"/>
+      <point x="993" y="580"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+      </data>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.939</real>
+        <real>1.0</real>
+        <real>0.6</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

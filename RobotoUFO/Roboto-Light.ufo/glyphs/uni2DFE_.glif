@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni2DFE" format="1">
+  <advance width="0"/>
+  <unicode hex="2DFE"/>
+  <outline>
+    <contour>
+      <point x="-575" y="1170" type="move" name="_marktop"/>
+    </contour>
+    <contour>
+      <point x="-877.0000000000001" y="1296.0" type="curve" smooth="yes"/>
+      <point x="-877" y="1202" type="line"/>
+      <point x="-800" y="1202" type="line"/>
+      <point x="-800" y="1296" type="line" smooth="yes"/>
+      <point x="-800" y="1411"/>
+      <point x="-751" y="1440"/>
+      <point x="-645" y="1440" type="curve" smooth="yes"/>
+      <point x="-613" y="1440" type="line"/>
+      <point x="-613" y="1202" type="line"/>
+      <point x="-536" y="1202" type="line"/>
+      <point x="-536" y="1440" type="line"/>
+      <point x="-503" y="1440" type="line" smooth="yes"/>
+      <point x="-397" y="1440"/>
+      <point x="-348" y="1411"/>
+      <point x="-348" y="1296" type="curve" smooth="yes"/>
+      <point x="-348" y="1202" type="line"/>
+      <point x="-271" y="1202" type="line"/>
+      <point x="-271" y="1296" type="line" smooth="yes"/>
+      <point x="-271.0" y="1446.836686"/>
+      <point x="-354.462574143247" y="1504.617398529943"/>
+      <point x="-494.1384048461914" y="1506.9186477661133" type="curve"/>
+      <point x="-303" y="1754" type="line"/>
+      <point x="-845" y="1754" type="line"/>
+      <point x="-654.6269760131836" y="1506.9035873413086" type="line"/>
+      <point x="-792.912353251488" y="1504.388024288572"/>
+      <point x="-877.0" y="1446.5377720000001"/>
+    </contour>
+    <contour>
+      <point x="-701.9236679077148" y="1687" type="line"/>
+      <point x="-446.26053619384766" y="1687" type="line"/>
+      <point x="-574.3365173339844" y="1509.1923828125" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.798</real>
+        <real>1.0</real>
+        <real>0.6</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tildevertsupnosp" format="1">
+  <advance width="0.0"/>
+  <unicode hex="033E"/>
+  <outline>
+    <contour>
+      <point x="-480.78009649588358" y="1096" type="move" name="_marktop"/>
+    </contour>
+    <contour>
+      <point x="-368.81731933727986" y="1744" type="move" name="mkmktop"/>
+    </contour>
+    <contour>
+      <point x="-582.57378522450665" y="1120.2761547297839" type="line"/>
+      <point x="-478.94237162795969" y="1124.4851462862584"/>
+      <point x="-338.31953993952521" y="1144.9301461600978"/>
+      <point x="-329.77725053712925" y="1274.5512369394328" type="curve" smooth="yes"/>
+      <point x="-325.20480694943262" y="1343.933705437629"/>
+      <point x="-383.8021977269575" y="1419.163604924317"/>
+      <point x="-367.33618140308164" y="1485.6561809170778" type="curve" smooth="yes"/>
+      <point x="-357.50222338980558" y="1525.3673768521405"/>
+      <point x="-326.0557816634572" y="1536.1197461158995"/>
+      <point x="-289.98211334219837" y="1541.8784574253173" type="curve"/>
+      <point x="-275.77627279825413" y="1672.7050915107691" type="line"/>
+      <point x="-376.08388418819618" y="1668.7464668117475"/>
+      <point x="-516.88072866303639" y="1649.4022165082467"/>
+      <point x="-524.86540029356433" y="1522.7882413093739" type="curve" smooth="yes"/>
+      <point x="-529.2468184774558" y="1453.3115240515035"/>
+      <point x="-467.50757028070791" y="1380.4269154186347"/>
+      <point x="-482.73756768243271" y="1313.9516270684933" type="curve" smooth="yes"/>
+      <point x="-492.78078905784491" y="1270.1153729126506"/>
+      <point x="-529.23097395771492" y="1259.6173086783283"/>
+      <point x="-567.99511957154903" y="1252.0882743526599" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.967</real>
+        <real>0.6</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

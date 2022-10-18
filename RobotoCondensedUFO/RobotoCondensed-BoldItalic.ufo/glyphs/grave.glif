@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="grave" format="1">
+  <advance width="658.63"/>
+  <unicode hex="0060"/>
+  <outline>
+    <contour>
+      <point x="517.81222716291711" y="1290" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="576.23735062102412" y="1665" type="move" name="mkmktop_acc"/>
+    </contour>
+    <contour>
+      <point x="498.58325362790413" y="1535.9416950267428" type="line"/>
+      <point x="205.01795678486968" y="1535.9159631841451" type="line"/>
+      <point x="425.71498252554727" y="1227.1281462177478" type="line"/>
+      <point x="642.65398714644516" y="1227.0096092393933" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.798</real>
+        <real>1.0</real>
+        <real>0.6</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

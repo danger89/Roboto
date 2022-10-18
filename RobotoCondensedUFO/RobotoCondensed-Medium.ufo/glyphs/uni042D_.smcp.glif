@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni042D.smcp" format="1">
+  <advance width="1011"/>
+  <outline>
+    <contour>
+      <point x="486" y="1320" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="991" y="1320" type="move" name="top0315"/>
+    </contour>
+    <contour>
+      <point x="932" y="546" type="curve" smooth="yes"/>
+      <point x="932" y="618" type="line" smooth="yes"/>
+      <point x="932" y="965"/>
+      <point x="758" y="1181"/>
+      <point x="486" y="1181" type="curve" smooth="yes"/>
+      <point x="216" y="1181"/>
+      <point x="81" y="1007"/>
+      <point x="61" y="768" type="curve"/>
+      <point x="301" y="768" type="line"/>
+      <point x="310" y="893"/>
+      <point x="351" y="981"/>
+      <point x="486" y="981" type="curve" smooth="yes"/>
+      <point x="613.535205" y="981.0"/>
+      <point x="678.8925835781" y="879.5519674169"/>
+      <point x="690.2121429443359" y="684" type="curve"/>
+      <point x="405" y="684" type="line"/>
+      <point x="405" y="483" type="line"/>
+      <point x="690.5758590698242" y="483" type="line"/>
+      <point x="681.3335303426869" y="289.824040410241"/>
+      <point x="625.953323" y="184.00000000000006"/>
+      <point x="491.0" y="184.00000000000006" type="curve" smooth="yes"/>
+      <point x="360" y="184"/>
+      <point x="312" y="253"/>
+      <point x="302" y="390" type="curve"/>
+      <point x="61" y="390" type="line"/>
+      <point x="77" y="151"/>
+      <point x="223" y="-16"/>
+      <point x="491" y="-16" type="curve" smooth="yes"/>
+      <point x="765" y="-16"/>
+      <point x="932" y="199"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.939</real>
+        <real>1.0</real>
+        <real>0.6</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

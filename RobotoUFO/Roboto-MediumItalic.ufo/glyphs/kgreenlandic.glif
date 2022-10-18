@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kgreenlandic" format="1">
+  <advance width="1140.72"/>
+  <unicode hex="0138"/>
+  <outline>
+    <contour>
+      <point x="697.33962382629102" y="1290" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="476.1785825253454" y="10" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="1259.9396238262912" y="1290" type="move" name="top0315"/>
+    </contour>
+    <contour>
+      <point x="701.78732009871646" y="0.0" type="line"/>
+      <point x="985.25688629964338" y="0.0" type="line"/>
+      <point x="661.17363211451652" y="546.90472595968015" type="line"/>
+      <point x="1166.3722133044812" y="1081.5716147619819" type="line"/>
+      <point x="855.39204124340245" y="1081.6346480859713" type="line"/>
+      <point x="454.10199289413742" y="651.45164393669495" type="line"/>
+      <point x="382.90668927321366" y="651.07273711516439" type="line"/>
+      <point x="458.32714543152713" y="1081.9311147288388" type="line"/>
+      <point x="220.93177180264934" y="1081.9415986569122" type="line"/>
+      <point x="33.009959395667707" y="0.0" type="line"/>
+      <point x="270.35816220354343" y="0.0" type="line"/>
+      <point x="345.12184065000798" y="428.96516526218613" type="line"/>
+      <point x="458.24951261027036" y="428.99952795103911" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.798</real>
+        <real>1.0</real>
+        <real>0.6</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

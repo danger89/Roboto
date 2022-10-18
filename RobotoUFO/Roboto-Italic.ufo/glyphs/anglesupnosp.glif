@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="anglesupnosp" format="1">
+  <advance width="0.0"/>
+  <unicode hex="031A"/>
+  <outline>
+    <contour>
+      <point x="-289.93549188865086" y="1263" type="move" name="_marktop"/>
+    </contour>
+    <contour>
+      <point x="-215.12085838606532" y="1696" type="move" name="mkmktop"/>
+    </contour>
+    <contour>
+      <point x="-567.66468076081503" y="1538.0876281488963" type="line"/>
+      <point x="-52.912650754268469" y="1537.9221656620159" type="line"/>
+      <point x="-97.842309162933461" y="1283.0724122852664" type="line"/>
+      <point x="40.29204849458138" y="1283.0664004365042" type="line"/>
+      <point x="105.40195483655201" y="1654.912789738499" type="line"/>
+      <point x="-546.69390587834982" y="1654.9227324548535" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.967</real>
+        <real>0.6</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ecircumflex.unic" format="1">
+  <advance width="1219.29"/>
+  <outline>
+    <contour>
+      <point x="796.09499986646915" y="1637" type="move" name="parent_top"/>
+    </contour>
+    <contour>
+      <point x="539.22858252534536" y="10" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="1372.6720635163638" y="1600" type="move" name="top_dd"/>
+    </contour>
+    <contour>
+      <point x="1025.8984620390215" y="-407" type="move" name="bottom_dd"/>
+    </contour>
+    <contour>
+      <point x="1379.0649998664692" y="1637" type="move" name="top0315"/>
+    </contour>
+    <contour>
+      <point x="856.25334605701835" y="1987" type="move" name="top"/>
+    </contour>
+    <component base="E.unic"/>
+    <component base="circumflex" xOffset="242.31537604017808" yOffset="347"/>
+  </outline>
+</glyph>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="overscoredblnosp" format="1">
+  <advance width="0.0"/>
+  <unicode hex="033F"/>
+  <outline>
+    <contour>
+      <point x="-418.31178410559988" y="1480" type="move" name="_marktop"/>
+    </contour>
+    <contour>
+      <point x="-315.16089218633073" y="2077" type="move" name="mkmktop"/>
+    </contour>
+    <contour>
+      <point x="116.2929356982401" y="1955.9103489416354" type="line"/>
+      <point x="-762.67587212550927" y="1955.9242020617867" type="line"/>
+      <point x="-789.47101824525168" y="1805.0895206398402" type="line"/>
+      <point x="89.497789578491094" y="1805.0756675196728" type="line"/>
+    </contour>
+    <contour>
+      <point x="65.010482012427005" y="1659.9103592059021" type="line"/>
+      <point x="-813.9583258115531" y="1659.9242123260417" type="line"/>
+      <point x="-840.75347193129642" y="1509.0895309040905" type="line"/>
+      <point x="38.215335892677572" y="1509.0756777839447" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.798</real>
+        <real>1.0</real>
+        <real>0.6</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="eta" format="1">
+  <advance width="1156"/>
+  <unicode hex="03B7"/>
+  <outline>
+    <contour>
+      <point x="577" y="1290" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="253" y="10" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="1156" y="1290" type="move" name="top0315"/>
+    </contour>
+    <contour>
+      <point x="1047" y="692" type="line"/>
+      <point x="1047" y="995"/>
+      <point x="907" y="1102"/>
+      <point x="699" y="1102" type="curve" smooth="yes"/>
+      <point x="569.6028" y="1102.0"/>
+      <point x="462.8651911168" y="1044.8360315008"/>
+      <point x="389.1096878051758" y="948.7934112548828" type="curve"/>
+      <point x="377" y="1082" type="line"/>
+      <point x="109" y="1082" type="line"/>
+      <point x="109" y="0" type="line"/>
+      <point x="398" y="0" type="line"/>
+      <point x="398" y="775.9597549438477" type="line"/>
+      <point x="439.749135760428" y="833.573775740068"/>
+      <point x="504.798282" y="869.0"/>
+      <point x="593.0" y="869.0" type="curve" smooth="yes"/>
+      <point x="698" y="869"/>
+      <point x="757" y="816"/>
+      <point x="757" y="692" type="curve"/>
+      <point x="757" y="-416" type="line"/>
+      <point x="1047" y="-416" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <real>0.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <real>0.0</real>
+          <key>y</key>
+          <real>901.0</real>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <real>0.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <real>0.0</real>
+          <key>y</key>
+          <real>555.0</real>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

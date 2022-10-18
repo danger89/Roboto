@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rho1" format="1">
+  <advance width="999"/>
+  <unicode hex="03F1"/>
+  <outline>
+    <contour>
+      <point x="505" y="-295" type="curve" smooth="yes"/>
+      <point x="667" y="-327"/>
+      <point x="732" y="-376"/>
+      <point x="732" y="-472" type="curve"/>
+      <point x="827" y="-472" type="line"/>
+      <point x="827" y="-270"/>
+      <point x="697" y="-219"/>
+      <point x="528" y="-187" type="curve" smooth="yes"/>
+      <point x="363.806464" y="-156.711872"/>
+      <point x="237.73082402816" y="-20.328933388287993"/>
+      <point x="200.91632080078125" y="248.9987030029297" type="curve"/>
+      <point x="272.59773261975596" y="140.91049202992804"/>
+      <point x="381.01105799999993" y="69.00000000000006"/>
+      <point x="516.0" y="69.00000000000004" type="curve" smooth="yes"/>
+      <point x="754" y="69"/>
+      <point x="902" y="274"/>
+      <point x="902" y="554" type="curve" smooth="yes"/>
+      <point x="902" y="586" type="line" smooth="yes"/>
+      <point x="902" y="884"/>
+      <point x="747" y="1102"/>
+      <point x="500" y="1102" type="curve" smooth="yes"/>
+      <point x="253" y="1102"/>
+      <point x="97" y="884"/>
+      <point x="97" y="586" type="curve" smooth="yes"/>
+      <point x="97" y="481" type="line" smooth="yes"/>
+      <point x="97" y="13"/>
+      <point x="259" y="-247"/>
+    </contour>
+    <contour>
+      <point x="498" y="173" type="curve" smooth="yes"/>
+      <point x="307" y="173"/>
+      <point x="208" y="353"/>
+      <point x="208" y="554" type="curve" smooth="yes"/>
+      <point x="208" y="586" type="line" smooth="yes"/>
+      <point x="208" y="806"/>
+      <point x="307" y="998"/>
+      <point x="500" y="998" type="curve" smooth="yes"/>
+      <point x="691" y="998"/>
+      <point x="791" y="806"/>
+      <point x="791" y="586" type="curve" smooth="yes"/>
+      <point x="791" y="554" type="line" smooth="yes"/>
+      <point x="791" y="352"/>
+      <point x="691" y="173"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.939</real>
+        <real>1.0</real>
+        <real>0.6</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

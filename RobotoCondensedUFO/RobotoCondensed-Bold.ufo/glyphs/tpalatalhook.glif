@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tpalatalhook" format="1">
+  <advance width="629"/>
+  <unicode hex="01AB"/>
+  <outline>
+    <contour>
+      <point x="583" y="-58" type="curve" smooth="yes"/>
+      <point x="583" y="7" type="line"/>
+      <point x="584" y="228" type="line"/>
+      <point x="570" y="224"/>
+      <point x="546" y="220"/>
+      <point x="517" y="220" type="curve" smooth="yes"/>
+      <point x="456" y="220"/>
+      <point x="432" y="242"/>
+      <point x="432" y="332" type="curve"/>
+      <point x="432" y="869" type="line"/>
+      <point x="577" y="869" type="line"/>
+      <point x="577" y="1082" type="line"/>
+      <point x="432" y="1082" type="line"/>
+      <point x="432" y="1349" type="line"/>
+      <point x="150" y="1349" type="line"/>
+      <point x="150" y="1082" type="line"/>
+      <point x="24" y="1082" type="line"/>
+      <point x="24" y="869" type="line"/>
+      <point x="150" y="869" type="line"/>
+      <point x="150" y="301" type="line"/>
+      <point x="150.0" y="85.98566200000002"/>
+      <point x="243.56957101483198" y="-6.868402730635964"/>
+      <point x="392" y="-18.687828063964844" type="curve"/>
+      <point x="392" y="-58" type="line" smooth="yes"/>
+      <point x="392" y="-170"/>
+      <point x="313" y="-199"/>
+      <point x="256" y="-199" type="curve" smooth="yes"/>
+      <point x="238" y="-199"/>
+      <point x="220" y="-196"/>
+      <point x="199" y="-192" type="curve"/>
+      <point x="201" y="-387" type="line"/>
+      <point x="236" y="-398"/>
+      <point x="270" y="-402"/>
+      <point x="306" y="-402" type="curve" smooth="yes"/>
+      <point x="478" y="-402"/>
+      <point x="583" y="-280"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.967</real>
+        <real>0.6</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

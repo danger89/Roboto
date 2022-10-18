@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="r" format="1">
+  <advance width="624"/>
+  <unicode hex="0072"/>
+  <outline>
+    <contour>
+      <point x="362" y="1290" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="234" y="11" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="604" y="1600" type="move" name="top_dd"/>
+    </contour>
+    <contour>
+      <point x="604" y="-407" type="move" name="bottom_dd"/>
+    </contour>
+    <contour>
+      <point x="604" y="1290" type="move" name="top0315"/>
+    </contour>
+    <contour>
+      <point x="500.0" y="924.0" type="curve"/>
+      <point x="531" y="924"/>
+      <point x="551" y="922"/>
+      <point x="580" y="916" type="curve"/>
+      <point x="579" y="1088" type="line"/>
+      <point x="569" y="1094"/>
+      <point x="530" y="1102"/>
+      <point x="509" y="1102" type="curve"/>
+      <point x="418.058215" y="1102.0"/>
+      <point x="352.05392920475003" y="1052.57841066695"/>
+      <point x="307.8567657470703" y="972.7249603271484" type="curve"/>
+      <point x="304" y="1082" type="line"/>
+      <point x="133" y="1082" type="line"/>
+      <point x="133" y="0" type="line"/>
+      <point x="310" y="0" type="line"/>
+      <point x="310" y="775.6453704833984" type="line"/>
+      <point x="343.44189791285004" y="866.128919785575"/>
+      <point x="404.82054500000004" y="924.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <real>0.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <real>0.0</real>
+          <key>y</key>
+          <real>901.0</real>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <real>0.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <real>0.0</real>
+          <key>y</key>
+          <real>555.0</real>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

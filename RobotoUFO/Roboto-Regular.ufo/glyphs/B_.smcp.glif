@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="B.smcp" format="1">
+  <advance width="1105"/>
+  <outline>
+    <contour>
+      <point x="529" y="1320" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="536" y="10" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="1105" y="1600" type="move" name="top_dd"/>
+    </contour>
+    <contour>
+      <point x="1105" y="-407" type="move" name="bottom_dd"/>
+    </contour>
+    <contour>
+      <point x="1105" y="1320" type="move" name="top0315"/>
+    </contour>
+    <contour>
+      <point x="1008" y="334" type="curve" smooth="yes"/>
+      <point x="1008.0" y="458.286605"/>
+      <point x="934.5295591798999" y="573.022052693387"/>
+      <point x="793.2565994262695" y="607.6626815795898" type="curve"/>
+      <point x="909.605647882922" y="651.824507591072"/>
+      <point x="975.0" y="740.5452230000001"/>
+      <point x="974.9999999999998" y="847.0000000000001" type="curve"/>
+      <point x="975" y="1065"/>
+      <point x="808" y="1165"/>
+      <point x="545" y="1165" type="curve"/>
+      <point x="139" y="1165" type="line"/>
+      <point x="139" y="0" type="line"/>
+      <point x="585" y="0" type="line"/>
+      <point x="844" y="0"/>
+      <point x="1008" y="113"/>
+    </contour>
+    <contour>
+      <point x="324" y="1012" type="line"/>
+      <point x="545" y="1012" type="line"/>
+      <point x="704" y="1012"/>
+      <point x="790" y="959"/>
+      <point x="790" y="839" type="curve"/>
+      <point x="790" y="730"/>
+      <point x="701" y="671"/>
+      <point x="558" y="671" type="curve"/>
+      <point x="324" y="671" type="line"/>
+    </contour>
+    <contour>
+      <point x="822" y="335" type="curve" smooth="yes"/>
+      <point x="822" y="221"/>
+      <point x="738" y="152"/>
+      <point x="585" y="152" type="curve" smooth="yes"/>
+      <point x="324" y="152" type="line"/>
+      <point x="324" y="531" type="line"/>
+      <point x="594" y="531" type="line" smooth="yes"/>
+      <point x="754" y="531"/>
+      <point x="822" y="452"/>
+    </contour>
+  </outline>
+</glyph>

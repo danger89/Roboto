@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="plussuperior" format="1">
+  <advance width="719.74"/>
+  <unicode hex="207A"/>
+  <outline>
+    <contour>
+      <point x="691.91710558029672" y="921.07733286933319" type="line"/>
+      <point x="722.62266465834932" y="1095.9092259138538" type="line"/>
+      <point x="532.0933336081855" y="1096.0863389322262" type="line"/>
+      <point x="578.94320252390503" y="1362.9209718090926" type="line"/>
+      <point x="406.49507072525387" y="1362.9302978872265" type="line"/>
+      <point x="359.64544798703946" y="1096.1022559788034" type="line"/>
+      <point x="169.93333238573308" y="1095.9225953861974" type="line"/>
+      <point x="139.22777330769651" y="921.09070234166836" type="line"/>
+      <point x="329.75710435781133" y="920.91358932329149" type="line"/>
+      <point x="282.90723544210022" y="654.07895644647772" type="line"/>
+      <point x="455.3553672408741" y="654.06963036837897" type="line"/>
+      <point x="502.20498997905827" y="920.89767227672098" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <real>0.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <real>0.0</real>
+          <key>y</key>
+          <real>1024.0</real>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <real>90.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <real>414.0</real>
+          <key>y</key>
+          <real>0.0</real>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.967</real>
+        <real>0.6</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zbar" format="1">
+  <advance width="1012.68"/>
+  <unicode hex="01B6"/>
+  <outline>
+    <contour>
+      <point x="622.64962382629096" y="1290" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="407.3085825253454" y="10" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="1131.899623826291" y="1290" type="move" name="top0315"/>
+    </contour>
+    <contour>
+      <point x="145.65455124707989" y="886.09600143282171" type="line"/>
+      <point x="660.40805051869984" y="885.5995035322444" type="line"/>
+      <point x="431.37110635655881" y="634.47563078277187" type="line"/>
+      <point x="142.4104079850336" y="633.89627822587386" type="line"/>
+      <point x="112.40283870173364" y="464.17901979472259" type="line"/>
+      <point x="277.63498030042666" y="463.68076664231381" type="line"/>
+      <point x="11.355734590075144" y="170.56982848302187" type="line"/>
+      <point x="-18.351619076291612" y="0.0" type="line"/>
+      <point x="834.8045936975434" y="0.0" type="line"/>
+      <point x="869.28074727104786" y="194.90346778481944" type="line"/>
+      <point x="319.53579793358466" y="195.38775376240878" type="line"/>
+      <point x="563.52143148557741" y="463.52547192967342" type="line"/>
+      <point x="844.45095329260198" y="464.11604816118512" type="line"/>
+      <point x="874.40678582352609" y="633.81256256534562" type="line"/>
+      <point x="717.01043115269499" y="634.33968624973011" type="line"/>
+      <point x="973.76723894673637" y="917.40619378996462" type="line"/>
+      <point x="1002.4183086932837" y="1081.8365182707093" type="line"/>
+      <point x="180.30868990310461" y="1081.9169304734805" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.798</real>
+        <real>1.0</real>
+        <real>0.6</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1ABA" format="1">
+  <advance width="0"/>
+  <unicode hex="1ABA"/>
+  <outline>
+    <contour>
+      <point x="-198" y="0" type="move" name="_bottom"/>
+    </contour>
+    <contour>
+      <point x="-325" y="-338" type="curve" smooth="yes"/>
+      <point x="-325.0" y="-317.397187"/>
+      <point x="-329.080810676377" y="-297.868271546415"/>
+      <point x="-336.41873931884766" y="-280.3773880004883" type="curve"/>
+      <point x="-150" y="70" type="line"/>
+      <point x="-274" y="152" type="line"/>
+      <point x="-464.98319244384766" y="-199.61634826660156" type="line"/>
+      <point x="-530.305926638528" y="-206.10868962144"/>
+      <point x="-581.0" y="-265.384072"/>
+      <point x="-581.0" y="-338.0" type="curve" smooth="yes"/>
+      <point x="-581" y="-414"/>
+      <point x="-524" y="-475"/>
+      <point x="-453" y="-475" type="curve" smooth="yes"/>
+      <point x="-382" y="-475"/>
+      <point x="-325" y="-414"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.798</real>
+        <real>1.0</real>
+        <real>0.6</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

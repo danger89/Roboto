@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Psi" format="1">
+  <advance width="1229"/>
+  <unicode hex="03A8"/>
+  <outline>
+    <contour>
+      <point x="1130.0" y="930.0" type="curve"/>
+      <point x="1130" y="1456" type="line"/>
+      <point x="945" y="1456" type="line"/>
+      <point x="945" y="930" type="line" smooth="yes"/>
+      <point x="945.0" y="701.84613"/>
+      <point x="846.413925857388" y="560.4183552983881"/>
+      <point x="692" y="525.5025939941406" type="curve"/>
+      <point x="692" y="1456" type="line"/>
+      <point x="508" y="1456" type="line"/>
+      <point x="508" y="526.6748580932617" type="line"/>
+      <point x="364.474309213877" y="563.474267278373"/>
+      <point x="268.0" y="704.3029449999999"/>
+      <point x="268.0" y="930.0" type="curve" smooth="yes"/>
+      <point x="268" y="1456" type="line"/>
+      <point x="85" y="1456" type="line"/>
+      <point x="85" y="930" type="line"/>
+      <point x="85.0" y="597.7027439999999"/>
+      <point x="258.92971870481597" y="398.1196335520159"/>
+      <point x="508" y="364.1863250732422" type="curve"/>
+      <point x="508" y="0" type="line"/>
+      <point x="692" y="0" type="line"/>
+      <point x="692" y="364.15145111083984" type="line"/>
+      <point x="948.5440012705001" y="398.00137907022497"/>
+      <point x="1130.0" y="597.60429"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.6</real>
+        <real>0.609</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

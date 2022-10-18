@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni20AB" format="1">
+  <advance width="1047"/>
+  <unicode hex="20AB"/>
+  <outline>
+    <contour>
+      <point x="527" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="456" y="1607" type="move" name="parent_top"/>
+    </contour>
+    <contour>
+      <point x="1027" y="1600" type="move" name="top_dd"/>
+    </contour>
+    <contour>
+      <point x="1027" y="-407" type="move" name="bottom_dd"/>
+    </contour>
+    <contour>
+      <point x="1027" y="1607" type="move" name="top0315"/>
+    </contour>
+    <contour>
+      <point x="456" y="1607" type="move" name="top"/>
+    </contour>
+    <component base="d"/>
+    <component base="crossbar" xOffset="319" yOffset="576"/>
+    <component base="underscore" xOffset="123" yOffset="-147"/>
+  </outline>
+</glyph>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="E" format="1">
+  <advance width="1130.05"/>
+  <unicode hex="0045"/>
+  <outline>
+    <contour>
+      <point x="775.28544827856012" y="1612" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="498.48858252534535" y="10" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="93.581446370007384" y="1456" type="move" name="tonos"/>
+    </contour>
+    <contour>
+      <point x="889.61076189018172" y="0" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="1302.8320635163636" y="1600" type="move" name="top_dd"/>
+    </contour>
+    <contour>
+      <point x="956.05846203902161" y="-407" type="move" name="bottom_dd"/>
+    </contour>
+    <contour>
+      <point x="1304.90544827856" y="1612" type="move" name="top0315"/>
+    </contour>
+    <contour>
+      <point x="74.157375039479362" y="0.0" type="line"/>
+      <point x="954.77410620686715" y="0.0" type="line"/>
+      <point x="973.41405248495607" y="103.92230578734754" type="line"/>
+      <point x="214.35745609214695" y="104.06299192748222" type="line"/>
+      <point x="317.6464624432183" y="697.93061042496799" type="line"/>
+      <point x="976.75493283914875" y="698.06942333829625" type="line"/>
+      <point x="995.57940806974148" y="802.92455250876492" type="line"/>
+      <point x="335.45639747091718" y="803.06009602057088" type="line"/>
+      <point x="430.78301703281704" y="1350.9277850593116" type="line"/>
+      <point x="1183.9803750030651" y="1351.0720261745394" type="line"/>
+      <point x="1202.8051519488508" y="1455.9196954498229" type="line"/>
+      <point x="326.77078595458465" y="1455.9354120219211" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.6</real>
+        <real>0.609</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

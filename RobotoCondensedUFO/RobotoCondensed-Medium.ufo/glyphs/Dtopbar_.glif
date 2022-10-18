@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Dtopbar" format="1">
+  <advance width="1135"/>
+  <unicode hex="018B"/>
+  <outline>
+    <contour>
+      <point x="1014" y="0" type="line"/>
+      <point x="1014" y="1456" type="line"/>
+      <point x="223" y="1456" type="line"/>
+      <point x="223" y="1247" type="line"/>
+      <point x="764" y="1247" type="line"/>
+      <point x="764" y="903" type="line"/>
+      <point x="533" y="903" type="line" smooth="yes"/>
+      <point x="251" y="903"/>
+      <point x="81" y="726"/>
+      <point x="81" y="457" type="curve" smooth="yes"/>
+      <point x="81" y="187"/>
+      <point x="251" y="0"/>
+      <point x="533" y="0" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="764" y="208" type="line"/>
+      <point x="533" y="208" type="line" smooth="yes"/>
+      <point x="395" y="208"/>
+      <point x="331" y="324"/>
+      <point x="331" y="459" type="curve" smooth="yes"/>
+      <point x="331" y="590"/>
+      <point x="395" y="695"/>
+      <point x="533" y="695" type="curve" smooth="yes"/>
+      <point x="764" y="695" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.939</real>
+        <real>1.0</real>
+        <real>0.6</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="carondotcomb.lc" format="1">
+  <advance width="0"/>
+  <outline>
+    <contour>
+      <point x="-473" y="1290" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="-474" y="1964" type="move" name="mkmktop_acc"/>
+    </contour>
+    <contour>
+      <point x="-598" y="1730" type="curve" smooth="yes"/>
+      <point x="-598" y="1660"/>
+      <point x="-553" y="1607"/>
+      <point x="-474" y="1607" type="curve" smooth="yes"/>
+      <point x="-395" y="1607"/>
+      <point x="-349" y="1660"/>
+      <point x="-349" y="1730" type="curve" smooth="yes"/>
+      <point x="-349" y="1802"/>
+      <point x="-395" y="1856"/>
+      <point x="-474" y="1856" type="curve" smooth="yes"/>
+      <point x="-553" y="1856"/>
+      <point x="-598" y="1802"/>
+    </contour>
+    <contour>
+      <point x="-589" y="1538" type="line"/>
+      <point x="-791" y="1538" type="line"/>
+      <point x="-791" y="1528" type="line"/>
+      <point x="-546" y="1248" type="line"/>
+      <point x="-401" y="1248" type="line"/>
+      <point x="-154" y="1527" type="line"/>
+      <point x="-154" y="1538" type="line"/>
+      <point x="-358" y="1538" type="line"/>
+      <point x="-474" y="1384" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.798</real>
+        <real>1.0</real>
+        <real>0.6</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

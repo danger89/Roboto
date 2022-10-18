@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="chook" format="1">
+  <advance width="1088"/>
+  <unicode hex="0188"/>
+  <outline>
+    <contour>
+      <point x="1011" y="1006" type="curve" smooth="yes"/>
+      <point x="1025" y="1006"/>
+      <point x="1042" y="1003"/>
+      <point x="1060" y="999" type="curve"/>
+      <point x="1058" y="1165" type="line"/>
+      <point x="1029" y="1176"/>
+      <point x="993" y="1180"/>
+      <point x="964" y="1180" type="curve" smooth="yes"/>
+      <point x="857.348065" y="1180.0"/>
+      <point x="782.417277181243" y="1126.026704796094"/>
+      <point x="746.0488510131836" y="1024.568603515625" type="curve"/>
+      <point x="683.381618033664" y="1075.298689297408"/>
+      <point x="601.2682080000001" y="1102.0"/>
+      <point x="504.00000000000006" y="1102.0" type="curve" smooth="yes"/>
+      <point x="217" y="1102"/>
+      <point x="82" y="912"/>
+      <point x="82" y="590" type="curve" smooth="yes"/>
+      <point x="82" y="492" type="line" smooth="yes"/>
+      <point x="82" y="170"/>
+      <point x="216" y="-20"/>
+      <point x="505" y="-20" type="curve"/>
+      <point x="713" y="-20"/>
+      <point x="878" y="129"/>
+      <point x="883" y="360" type="curve"/>
+      <point x="657" y="360" type="line"/>
+      <point x="653" y="232"/>
+      <point x="591" y="180"/>
+      <point x="502" y="180" type="curve" smooth="yes"/>
+      <point x="349" y="180"/>
+      <point x="322" y="294"/>
+      <point x="322" y="492" type="curve" smooth="yes"/>
+      <point x="322" y="590" type="line" smooth="yes"/>
+      <point x="322" y="784"/>
+      <point x="350" y="902"/>
+      <point x="502" y="902" type="curve"/>
+      <point x="603" y="902"/>
+      <point x="653" y="828"/>
+      <point x="657" y="693" type="curve"/>
+      <point x="883" y="693" type="line"/>
+      <point x="883" y="858" type="line" smooth="yes"/>
+      <point x="883" y="972"/>
+      <point x="949" y="1006"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+      </data>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.939</real>
+        <real>1.0</real>
+        <real>0.6</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

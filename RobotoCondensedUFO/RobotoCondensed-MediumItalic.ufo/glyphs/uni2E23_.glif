@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni2E23" format="1">
+  <advance width="513.13"/>
+  <unicode hex="2E23"/>
+  <outline>
+    <contour>
+      <point x="209.5556895105023" y="1288.0985907337322" type="line"/>
+      <point x="383.55089039979578" y="1287.9418151747341" type="line"/>
+      <point x="262.77706836220051" y="593.06221140305649" type="line"/>
+      <point x="446.79487811820525" y="593.04759920016875" type="line"/>
+      <point x="596.77692202570881" y="1455.9288322825898" type="line"/>
+      <point x="239.2643002330035" y="1455.9335857569774" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <real>0.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <real>0.0</real>
+          <key>y</key>
+          <real>677.0</real>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <real>0.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <real>0.0</real>
+          <key>y</key>
+          <real>593.0</real>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.967</real>
+        <real>0.6</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

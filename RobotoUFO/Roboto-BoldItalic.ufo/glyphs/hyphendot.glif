@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hyphendot" format="1">
+  <advance width="512.16"/>
+  <unicode hex="2027"/>
+  <outline>
+    <contour>
+      <point x="103.18377325149198" y="619.88291198583931" type="curve" smooth="yes"/>
+      <point x="105.32583042535281" y="531.0963071747866"/>
+      <point x="177.03924810889515" y="473.07729576039145"/>
+      <point x="263.27341489197693" y="474.7535200795304" type="curve" smooth="yes"/>
+      <point x="351.51821831287441" y="476.468827260544"/>
+      <point x="420.40776875805994" y="539.87997707613272"/>
+      <point x="418.3114691775437" y="630.09972838270119" type="curve" smooth="yes"/>
+      <point x="416.24757637678164" y="718.92476891546562"/>
+      <point x="344.78033167026138" y="777.87624626327329"/>
+      <point x="258.26030203703931" y="776.25556820879478" type="curve" smooth="yes"/>
+      <point x="169.16820616383953" y="774.58671065960891"/>
+      <point x="100.99296156217498" y="710.69035356510972"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.798</real>
+        <real>1.0</real>
+        <real>0.6</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

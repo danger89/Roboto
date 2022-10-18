@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="brevenosp" format="1">
+  <advance width="0"/>
+  <unicode hex="0306"/>
+  <outline>
+    <contour>
+      <point x="-473" y="1194" type="move" name="_marktop"/>
+    </contour>
+    <contour>
+      <point x="-473" y="1616" type="move" name="mkmktop"/>
+    </contour>
+    <contour>
+      <point x="-473" y="1370" type="move" name="parent_top"/>
+    </contour>
+    <contour>
+      <point x="-370" y="1513" type="line"/>
+      <point x="-370" y="1440"/>
+      <point x="-397" y="1375"/>
+      <point x="-473" y="1375" type="curve" smooth="yes"/>
+      <point x="-550" y="1375"/>
+      <point x="-578" y="1440"/>
+      <point x="-578" y="1513" type="curve"/>
+      <point x="-755" y="1513" type="line"/>
+      <point x="-755" y="1346"/>
+      <point x="-646" y="1229"/>
+      <point x="-473" y="1229" type="curve" smooth="yes"/>
+      <point x="-301" y="1229"/>
+      <point x="-192" y="1346"/>
+      <point x="-192" y="1513" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.798</real>
+        <real>1.0</real>
+        <real>0.6</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

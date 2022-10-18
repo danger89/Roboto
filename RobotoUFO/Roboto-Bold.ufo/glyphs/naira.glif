@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="naira" format="1">
+  <advance width="1667"/>
+  <unicode hex="20A6"/>
+  <outline>
+    <contour>
+      <point x="1124" y="0" type="line"/>
+      <point x="1424" y="0" type="line"/>
+      <point x="1424" y="505" type="line"/>
+      <point x="1630" y="505" type="line"/>
+      <point x="1630" y="665" type="line"/>
+      <point x="1424" y="665" type="line"/>
+      <point x="1424" y="827" type="line"/>
+      <point x="1630" y="827" type="line"/>
+      <point x="1630" y="987" type="line"/>
+      <point x="1424" y="987" type="line"/>
+      <point x="1424" y="1456" type="line"/>
+      <point x="1125" y="1456" type="line"/>
+      <point x="1125" y="987" type="line"/>
+      <point x="825.796875" y="987" type="line"/>
+      <point x="540" y="1456" type="line"/>
+      <point x="240" y="1456" type="line"/>
+      <point x="240" y="987" type="line"/>
+      <point x="37" y="987" type="line"/>
+      <point x="37" y="827" type="line"/>
+      <point x="240" y="827" type="line"/>
+      <point x="240" y="665" type="line"/>
+      <point x="37" y="665" type="line"/>
+      <point x="37" y="505" type="line"/>
+      <point x="240" y="505" type="line"/>
+      <point x="240" y="0" type="line"/>
+      <point x="540" y="0" type="line"/>
+      <point x="540" y="505" type="line"/>
+      <point x="816.471321105957" y="505" type="line"/>
+    </contour>
+    <contour>
+      <point x="540" y="665" type="line"/>
+      <point x="540" y="827" type="line"/>
+      <point x="620.3837356567383" y="827" type="line"/>
+      <point x="719.0364990234375" y="665" type="line"/>
+    </contour>
+    <contour>
+      <point x="1022.015625" y="665" type="line"/>
+      <point x="923.296875" y="827" type="line"/>
+      <point x="1125" y="827" type="line"/>
+      <point x="1125" y="665" type="line"/>
+    </contour>
+    <contour>
+      <point x="1125" y="496" type="line"/>
+      <point x="1119.515625" y="505" type="line"/>
+      <point x="1125" y="505" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.939</real>
+        <real>1.0</real>
+        <real>0.6</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

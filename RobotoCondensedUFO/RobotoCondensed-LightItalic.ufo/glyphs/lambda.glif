@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lambda" format="1">
+  <advance width="958.36"/>
+  <unicode hex="03BB"/>
+  <outline>
+    <contour>
+      <point x="978.98544827856017" y="1612" type="move" name="top0315"/>
+    </contour>
+    <contour>
+      <point x="804.67950815221889" y="-0.25879945124276882" type="curve"/>
+      <point x="809.69404756795655" y="103.33505846638047" type="line"/>
+      <point x="798.45224484261018" y="101.53571155714332"/>
+      <point x="786.61581772816533" y="98.685786564576048"/>
+      <point x="775.12606079398313" y="99.654880361865054" type="curve" smooth="yes"/>
+      <point x="714.6862645668491" y="104.75262367955661"/>
+      <point x="708.86512404519692" y="190.38270150744538"/>
+      <point x="700.93699709052373" y="235.66809373780688" type="curve" smooth="yes"/>
+      <point x="549.49196480046487" y="1302.352894536331" type="line" smooth="yes"/>
+      <point x="532.95361423462771" y="1399.0572213113376"/>
+      <point x="493.921865999722" y="1516.564071053207"/>
+      <point x="375.99084881161383" y="1516.2415588122813" type="curve" smooth="yes"/>
+      <point x="355.00004445502822" y="1516.1841541403528"/>
+      <point x="334.99520143516065" y="1511.2315130050283"/>
+      <point x="314.83813860713337" y="1506.1427184924557" type="curve"/>
+      <point x="309.42498630685282" y="1408.2617257496981" type="line"/>
+      <point x="321.47944031963857" y="1409.5356210717412"/>
+      <point x="333.9713958076706" y="1411.5390089416792"/>
+      <point x="346.13605661021472" y="1410.8355455594462" type="curve" smooth="yes"/>
+      <point x="418.97308839715782" y="1406.6234934879296"/>
+      <point x="428.82310741799461" y="1315.0920446333071"/>
+      <point x="439.16332175916978" y="1259.0629782071403" type="curve" smooth="yes"/>
+      <point x="472.56284739664056" y="1056.4807107542204" type="line"/>
+      <point x="-49.688492297330114" y="0.0" type="line"/>
+      <point x="77.132066685723046" y="0.0" type="line"/>
+      <point x="498.42571094928223" y="872.95450580742079" type="line"/>
+      <point x="592.95572275912923" y="198.23257631406105" type="line"/>
+      <point x="610.73147322068928" y="109.95017016336867"/>
+      <point x="640.39310804177876" y="-11.685945567450178"/>
+      <point x="752.58664517630689" y="-10.026517106742812" type="curve" smooth="yes"/>
+      <point x="770.59014874118191" y="-9.760231481286711"/>
+      <point x="787.59184305206907" y="-5.2640967182551561"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <real>0.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <real>0.0</real>
+          <key>y</key>
+          <real>901.0</real>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <real>0.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <real>0.0</real>
+          <key>y</key>
+          <real>555.0</real>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

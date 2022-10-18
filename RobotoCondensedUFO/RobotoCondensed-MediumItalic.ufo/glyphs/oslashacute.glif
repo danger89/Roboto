@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="oslashacute" format="1">
+  <advance width="990.37"/>
+  <unicode hex="01FF"/>
+  <outline>
+    <contour>
+      <point x="582.36127763574189" y="1287" type="move" name="parent_top"/>
+    </contour>
+    <contour>
+      <point x="1143.7520635163637" y="1600" type="move" name="top_dd"/>
+    </contour>
+    <contour>
+      <point x="1089.6712776357419" y="1287" type="move" name="top0315"/>
+    </contour>
+    <contour>
+      <point x="638.75674831647279" y="1655" type="move" name="top"/>
+    </contour>
+    <component base="oslash"/>
+    <component base="acute" xOffset="245.93905047282487" yOffset="-3"/>
+  </outline>
+</glyph>

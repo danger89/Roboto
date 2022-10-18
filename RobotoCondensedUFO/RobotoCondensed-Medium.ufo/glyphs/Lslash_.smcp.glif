@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Lslash.smcp" format="1">
+  <advance width="860"/>
+  <outline>
+    <contour>
+      <point x="246" y="1320" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="462" y="8" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="467" y="1167" type="move" name="caron"/>
+    </contour>
+    <contour>
+      <point x="461" y="674" type="move" name="dot"/>
+    </contour>
+    <contour>
+      <point x="840" y="1600" type="move" name="top_dd"/>
+    </contour>
+    <contour>
+      <point x="840" y="-407" type="move" name="bottom_dd"/>
+    </contour>
+    <contour>
+      <point x="840" y="1320" type="move" name="top0315"/>
+    </contour>
+    <contour>
+      <point x="811" y="200" type="line"/>
+      <point x="361" y="200" type="line"/>
+      <point x="361" y="603.9354858398438" type="line"/>
+      <point x="550" y="671" type="line"/>
+      <point x="550" y="821" type="line"/>
+      <point x="361" y="753.9354858398438" type="line"/>
+      <point x="361" y="1165" type="line"/>
+      <point x="121" y="1165" type="line"/>
+      <point x="121" y="668.7741928100586" type="line"/>
+      <point x="23" y="634" type="line"/>
+      <point x="23" y="484" type="line"/>
+      <point x="121" y="518.7741928100586" type="line"/>
+      <point x="121" y="0" type="line"/>
+      <point x="811" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.798</real>
+        <real>1.0</real>
+        <real>0.6</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ysmallcap" format="1">
+  <advance width="1019.47"/>
+  <unicode hex="028F"/>
+  <outline>
+    <contour>
+      <point x="628.46962382629101" y="1290" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="405.58076189018175" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="1138.6896238262912" y="1290" type="move" name="top0315"/>
+    </contour>
+    <contour>
+      <point x="1086.56570751201" y="1081.6255905996397" type="line"/>
+      <point x="944.07925212563032" y="1081.6409801894213" type="line"/>
+      <point x="485.04394140076135" y="483.84311671702153" type="line"/>
+      <point x="235.29525896773532" y="1081.9839414480939" type="line"/>
+      <point x="108.816844581468" y="1081.9796205788678" type="line"/>
+      <point x="412.12708234639672" y="385.17006018032788" type="line"/>
+      <point x="344.53258984552355" y="0.0" type="line"/>
+      <point x="463.83155680309505" y="0.0" type="line"/>
+      <point x="527.74766151997187" y="367.24412266937543" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.779</real>
+        <real>0.6</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="parenright" format="1">
+  <advance width="701.31"/>
+  <unicode hex="0029"/>
+  <outline>
+    <contour>
+      <point x="575.3755111860313" y="597.08807826689338" type="line" smooth="yes"/>
+      <point x="621.3607417984623" y="940.30889495648807"/>
+      <point x="564.08572036280441" y="1430.132408921753"/>
+      <point x="235.23618359989894" y="1630.6384187398651" type="curve"/>
+      <point x="178.45397932750006" y="1497.5594001461243" type="line"/>
+      <point x="408.29866423149724" y="1292.7891110044604"/>
+      <point x="389.48017494818572" y="866.78193711560357"/>
+      <point x="351.20656992503069" y="595.34050665827681" type="curve" smooth="yes"/>
+      <point x="348.29328553870403" y="575.4664174156884" type="line" smooth="yes"/>
+      <point x="297.3605055015741" y="234.65054786207185"/>
+      <point x="173.59122295378603" y="-110.36633750655304"/>
+      <point x="-107.60572741277974" y="-326.88435178495774" type="curve"/>
+      <point x="-71.379500647340336" y="-464.53261723515777" type="line"/>
+      <point x="316.3761050472433" y="-292.76909284598725"/>
+      <point x="516.45828075300278" y="189.6098211568351"/>
+      <point x="573.02869729533484" y="580.62655101890505" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <real>0.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <real>0.0</real>
+          <key>y</key>
+          <real>901.0</real>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <real>0.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <real>0.0</real>
+          <key>y</key>
+          <real>555.0</real>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

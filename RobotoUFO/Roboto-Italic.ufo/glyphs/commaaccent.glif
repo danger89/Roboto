@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="commaaccent" format="1">
+  <advance width="500.52"/>
+  <unicode hex="F6C3"/>
+  <outline>
+    <contour>
+      <point x="205.81561237497453" y="354" type="move" name="_bottom"/>
+    </contour>
+    <contour>
+      <point x="67.260110943559923" y="237" type="move" name="_caron"/>
+    </contour>
+    <contour>
+      <point x="119.32776284445809" y="78" type="move" name="_right"/>
+    </contour>
+    <contour>
+      <point x="116.66006760053078" y="-162" type="move" name="mkmkbottom_acc"/>
+    </contour>
+    <contour>
+      <point x="271.43597920587797" y="238.700573275333" type="line"/>
+      <point x="99.402839970847921" y="239.00970444217549" type="line"/>
+      <point x="85.03068003632221" y="158.15974161715775" type="line" smooth="yes"/>
+      <point x="67.842840429034823" y="66.368296915921235"/>
+      <point x="27.029922446177913" y="-12.173279061096792"/>
+      <point x="-27.973873129227215" y="-86.8728470342554" type="curve"/>
+      <point x="71.171675756592222" y="-162.11490068472364" type="line"/>
+      <point x="172.47308881295203" y="-81.657487656711893"/>
+      <point x="238.85875276990231" y="32.871661295621536"/>
+      <point x="259.33395354666976" y="160.77047424893738" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>
